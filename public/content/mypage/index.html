@@ -1,0 +1,44 @@
+<html>
+
+<head>
+  <title>Mypage Test</title>
+  <style type="text/css">
+    body {
+      background-color: #333;
+      color: #FFF;
+      text-align: center;
+    }
+    .content {
+      height: 250px;
+      width: auto;
+      margin: 20px;
+    }
+    .content_b {
+      background-color: #AAF;
+    }
+    .content_g {
+      background-color: #AFA;
+    }
+    .content_r {
+      background-color: #FAA;
+    }
+    .content_y {
+      background-color: #FFA;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Mypage Test</h1>
+  <h2>terminalCat:<span id="terminalCat"></span></h2>
+  <div class="content content_b"></div>
+  <div class="content content_g"></div>
+  <div class="content content_r"></div>
+  <div class="content content_y"></div>
+  <script>
+    var terminalCat = sessionStorage.getItem("terminalCat");
+    document.getElementById("terminalCat").innerText = terminalCat;
+  </script>
+</body>
+
+</html>

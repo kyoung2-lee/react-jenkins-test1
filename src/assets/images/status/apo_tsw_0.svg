@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #a1d03c;
+      }
+
+      .cls-2, .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_8731" data-name="グループ化 8731" transform="translate(-4351 -301)">
+    <g id="楕円形_98" data-name="楕円形 98" class="cls-1" transform="translate(4351 301)">
+      <circle class="cls-4" cx="28" cy="28" r="28"/>
+      <circle class="cls-5" cx="28" cy="28" r="26.5"/>
+    </g>
+    <g id="グループ化_8723" data-name="グループ化 8723" transform="translate(4364 316)">
+      <path id="パス_2103" data-name="パス 2103" class="cls-2" d="M21.087,17.216h3.652a4.2,4.2,0,1,0,0-8.409,4.38,4.38,0,0,0-1.278.18,3.132,3.132,0,0,0,.061-.781A4.207,4.207,0,0,0,19.261,4a4.337,4.337,0,0,0-2.8,1.021A6,6,0,0,0,10.739,1,6.065,6.065,0,0,0,4.652,7.006a5.594,5.594,0,0,0,.3,1.8,4.208,4.208,0,0,0,.3,8.409H8.913" transform="translate(0 0)"/>
+      <path id="パス_2104" data-name="パス 2104" class="cls-2" d="M7.5,14h.3a4.015,4.015,0,0,1,2.215.659" transform="translate(-2.608 -5.2)"/>
+      <path id="パス_2105" data-name="パス 2105" class="cls-2" d="M26.4,7.7a5.126,5.126,0,0,1,.3,1.377" transform="translate(-9.936 -2.679)"/>
+      <path id="パス_2106" data-name="パス 2106" class="cls-2" d="M37.539,14.3A5.492,5.492,0,0,1,37,15.677" transform="translate(-14.08 -5.319)"/>
+      <path id="パス_2107" data-name="パス 2107" class="cls-3" d="M20.73,22.927,23.784,17l-4.969,1.377L16,25.562l2.814-.479L16.958,31.37l8.023-8.921Z" transform="translate(-5.797 -6.37)"/>
+    </g>
+  </g>
+</svg>

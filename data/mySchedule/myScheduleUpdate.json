@@ -1,0 +1,85 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10401W2",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2022-07-20T07:08:09.4797768Z",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "staffAssignInformation": {
+    "employeeNumber": "10804001",
+    "familyName": "NIKKO10804001",
+    "firstName": "HANAKO10804001",
+    "iataAirport": "HND",
+    "workDate": "2022-07-20",
+    "workStartTime": "2022-07-20T12:00",
+    "workEndTime": "2022-07-20T20:25",
+    "changeNoticeStatus": false,
+    "changeNotice": "",
+    "taskInformation": [
+      {
+        "taskId": 9595,
+        "taskName": "JGCCNTR1",
+        "taskStartStatus": false,
+        "taskEndStatus": false,
+        "taskClassColor": "108,187,90,1.0",
+        "taskBackColor": "234,101,18,1.0",
+        "taskFontColor": "255,255,255,1.0",
+        "taskStartTime": "2022-07-20T12:00",
+        "taskEndTime": "2022-07-20T16:00",
+        "originDateLocal": "",
+        "carrierCodeIata": "",
+        "fltNumber": "",
+        "skdDepAirportCode": "",
+        "skdArrAirportCode": "",
+        "skdLegSerial": 0,
+        "depArrType": "",
+        "sameWorkerInformation": []
+      },
+      {
+        "taskId": 9597,
+        "taskName": "JGSCNTR時変",
+        "taskStartStatus": false,
+        "taskEndStatus": true,
+        "taskClassColor": "108,187,90,1.0",
+        "taskBackColor": "208,27,96,1.0",
+        "taskFontColor": "255,255,255,1.0",
+        "taskStartTime": "2022-07-20T16:00",
+        "taskEndTime": "2022-07-20T20:25",
+        "originDateLocal": "",
+        "carrierCodeIata": "",
+        "fltNumber": "",
+        "skdDepAirportCode": "",
+        "skdArrAirportCode": "",
+        "skdLegSerial": 0,
+        "depArrType": "",
+        "sameWorkerInformation": []
+      },
+      {
+        "taskId": 20786,
+        "taskName": "REST",
+        "taskStartStatus": false,
+        "taskEndStatus": false,
+        "taskClassColor": "127,127,127,1.0",
+        "taskBackColor": "208,27,96,1.0",
+        "taskFontColor": "255,255,255,1.0",
+        "taskStartTime": "2022-07-20T15:30",
+        "taskEndTime": "2022-07-20T16:30",
+        "originDateLocal": "",
+        "carrierCodeIata": "",
+        "fltNumber": "",
+        "skdDepAirportCode": "",
+        "skdArrAirportCode": "",
+        "skdLegSerial": 0,
+        "depArrType": "",
+        "sameWorkerInformation": []
+      }
+    ]
+  }
+}

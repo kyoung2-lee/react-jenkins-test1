@@ -1,0 +1,119 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10203W1",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2018-01-31T08:33:56",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+    },
+    "timeLcl": "2019-04-10T09:08:07+09:00",
+    "usingRwy": [
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "rwyToLdCat": "TO",
+            "rwyNo": "22R",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "rwyToLdCat": "TO",
+            "rwyNo": "11L",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "rwyToLdCat": "LD",
+            "rwyNo": "161R",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "rwyToLdCat": "LD",
+            "rwyNo": "161L",
+            "updateTime": "2018-01-31T08:30:30"
+        }
+    ],
+    "issu": [
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "SWW",
+            "issuDtlCd": "CD3",
+            "issuTime": "0710",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "SEC",
+            "issuDtlCd": "LV1",
+            "issuTime": "0720",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "TSW",
+            "issuDtlCd": "CNL",
+            "issuTime": "0730",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "DIC",
+            "issuDtlCd": "ON",
+            "issuTime": "0630",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "RCL",
+            "issuDtlCd": "ON",
+            "issuTime": "0620",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "SSP",
+            "issuDtlCd": "ON",
+            "issuTime": "0610",
+            "updateTime": "2018-01-31T08:30:30"
+        },
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "issuCd": "TSW",
+            "issuDtlCd": "CD2",
+            "issuTime": "0615",
+            "updateTime": "2018-01-31T08:30:30"
+        }
+    ],
+    "airportDtl": [
+        {
+            "trxId": "A",
+            "apoCd": "HND",
+            "apoRmksInfo": "現在通常運航中"
+        }
+    ],
+    "curfew": [
+      {
+          "trxId": "A",
+          "apoCd": "HND",
+          "curfewTimeStartLcl": "0135",
+          "curfewTimeEndLcl": "0615"
+      }
+  ]
+}

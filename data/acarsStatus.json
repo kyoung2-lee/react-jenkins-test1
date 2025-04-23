@@ -1,0 +1,209 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10100WH",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2022-09-26T08:25:23.6495899Z",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "acars": [
+    {
+      "trxId": "A",
+      "shipNo": "JQ911W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA901W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA902W",
+      "acarsSts": "P",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA903W",
+      "acarsSts": "N",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA904W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA905W",
+      "acarsSts": "P",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA906W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA907W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA908W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA909W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA910W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA911W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA912W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA913W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA914W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA915W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA916W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA917W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA918W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA919W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA920W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA921W",
+      "acarsSts": "A",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA922W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA923W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA924W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA925W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA926W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA927W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA928W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA929W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA930W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    },
+    {
+      "trxId": "A",
+      "shipNo": "JA931W",
+      "acarsSts": "",
+      "updateTime": "2019-04-04T15:00:00.0000000"
+    }
+  ]
+}

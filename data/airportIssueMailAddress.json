@@ -1,0 +1,51 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10206W3",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2019-02-04T03:09:33.6273719Z",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+	},
+	"mailAddrList": [
+		"satoshi.fujita@jalinfotec.co.jp",
+		"soala@jalinfotec.co.jp",
+		"soala111_dummy@jal.com",
+		"soala112_dummy@jal.com",
+		"soala139_dummy@jal.com",
+		"soala140_dummy@jal.com",
+		"soala167_dummy@jal.com",
+		"soala168_dummy@jal.com",
+		"soala195_dummy@jal.com",
+		"soala196_dummy@jal.com",
+		"soala223_dummy@jal.com",
+		"soala224_dummy@jal.com",
+		"soala251_dummy@jal.com",
+		"soala252_dummy@jal.com",
+		"soala27_dummy@jal.com",
+		"soala279_dummy@jal.com",
+		"soala28_dummy@jal.com",
+		"soala280_dummy@jal.com",
+		"soala307_dummy@jal.com",
+		"soala308_dummy@jal.com",
+		"soala335_dummy@jal.com",
+		"soala336_dummy@jal.com",
+		"soala363_dummy@jal.com",
+		"soala364_dummy@jal.com",
+		"soala391_dummy@jal.com",
+		"soala392_dummy@jal.com",
+		"soala419_dummy@jal.com",
+		"soala420_dummy@jal.com",
+		"soala447_dummy@jal.com",
+		"soala448_dummy@jal.com",
+		"soala55_dummy@jal.com",
+		"soala56_dummy@jal.com",
+		"soala83_dummy@jal.com",
+		"soala84_dummy@jal.com"
+	]
+}

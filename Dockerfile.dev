@@ -1,0 +1,16 @@
+# Define the platform variable
+ARG PLATFORM=linux/amd64
+
+FROM --platform=${PLATFORM} node:22.14
+
+WORKDIR /app
+
+COPY package*.json ./
+
+RUN yarn install
+
+ADD ./ ./
+
+CMD ["yarn", "run", "watch"]
+
+EXPOSE 3333

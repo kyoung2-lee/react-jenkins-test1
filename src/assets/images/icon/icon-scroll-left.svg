@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_10255" data-name="長方形 10255" width="60" height="60"/>
+    </clipPath>
+    <filter id="パス_1920" x="20.369" y="14.915" width="25.364" height="33.545" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon_Initial_Position_1" data-name="Icon_Initial_Position – 1" clip-path="url(#clip-path)">
+    <g id="グループ_11058" data-name="グループ 11058">
+      <g id="Icon_Initial_Position">
+        <g id="グループ_7754" data-name="グループ 7754" transform="translate(-1384 -992)">
+          <g id="パス_2026" data-name="パス 2026" transform="translate(1384 992)">
+            <path id="パス_3232" data-name="パス 3232" d="M30,59A29.008,29.008,0,0,1,18.712,3.279,29.008,29.008,0,0,1,41.288,56.722,28.818,28.818,0,0,1,30,59Z" fill="#346181"/>
+            <path id="パス_3233" data-name="パス 3233" d="M30,2A28.008,28.008,0,0,0,19.1,55.8,28.008,28.008,0,0,0,40.9,4.2,27.823,27.823,0,0,0,30,2m0-2A30,30,0,1,1,0,30,30,30,0,0,1,30,0Z" fill="#fff"/>
+          </g>
+          <g id="グループ_7753" data-name="グループ 7753" transform="translate(1403.772 1037.682) rotate(-90)">
+            <g id="グループ_6916" data-name="グループ 6916" transform="translate(2.727 4.092)">
+              <g id="グループ_6918" data-name="グループ 6918">
+                <g id="グループ_6917" data-name="グループ 6917">
+                  <g transform="matrix(0, 1, -1, 0, 42.96, -23.86)" filter="url(#パス_1920)">
+                    <path id="パス_1920-2" data-name="パス 1920" d="M0,0H24.545L12.273,16.364Z" transform="translate(40.23 18.42) rotate(90)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="長方形_2859" data-name="長方形 2859" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+              <rect width="30" height="2.727" stroke="none"/>
+              <rect x="0.5" y="0.5" width="29" height="1.727" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

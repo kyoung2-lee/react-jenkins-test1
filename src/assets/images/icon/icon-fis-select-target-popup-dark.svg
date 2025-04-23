@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #1b435e;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="Icon_Popup" transform="translate(8008.5 -5869.5)">
+    <path id="パス_2448" data-name="パス 2448" class="cls-1" d="M0,0H16" transform="translate(-8007 5871)"/>
+    <line id="線_450" data-name="線 450" class="cls-1" x2="8" transform="translate(-8003 5876)"/>
+    <line id="線_451" data-name="線 451" class="cls-1" x2="2" transform="translate(-8000 5881)"/>
+  </g>
+</svg>

@@ -1,0 +1,134 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10502W3",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2019-12-05T09:00:00",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "flight": {
+    "orgDateLcl": "2019-07-17",
+    "alCd": "JL",
+    "fltNo": "0651",
+    "lstDepApoCd": "HND",
+    "lstArrApoCd": "KOJ",
+    "csFlg": false
+  },
+  "spclPaxRcvDateTime": "2019-07-17T10:11:00",
+  "spclPaxGrp": [
+    {
+      "spclCareGrpId": 1,
+      "spclPax": [
+        {
+          "ssrCode": "CVIP",
+          "peopleNumber": 1
+        },
+        {
+          "ssrCode": "INFT",
+          "peopleNumber": 6
+        },
+        {
+          "ssrCode": "PRGN",
+          "peopleNumber": 2
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 2,
+      "spclPax": [
+        {
+          "ssrCode": "WCHR",
+          "peopleNumber": 1
+        },
+        {
+          "ssrCode": "WCHS",
+          "peopleNumber": 1
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 4,
+      "spclPax": [
+        {
+          "ssrCode": "BLND",
+          "peopleNumber": 2
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 6,
+      "spclPax": [
+        {
+          "ssrCode": "DEPA",
+          "peopleNumber": 1
+        }
+      ]
+    }
+  ],
+  "spclLoadRcvDateTime": "2019-07-17T15:10:45",
+  "spclLoadGrp": [
+    {
+      "spclCareGrpId": 7,
+      "spclLoad": [
+        {
+          "spclLoadCode": "CAO",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 8,
+      "spclLoad": [
+        {
+          "spclLoadCode": "ICE",
+          "totalLoad": "5"
+        },
+        {
+          "spclLoadCode": "ICE",
+          "totalLoad": "12"
+        },
+        {
+          "spclLoadCode": "ICE",
+          "totalLoad": "3"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 10,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RCX",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "REX",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 11,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RFL",
+          "totalLoad": "5"
+        },
+        {
+          "spclLoadCode": "RFW",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "ROX",
+          "totalLoad": "999"
+        }
+      ]
+    }
+  ],
+  "connectDbCat": "O"
+}

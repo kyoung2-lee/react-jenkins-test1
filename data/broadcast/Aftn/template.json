@@ -1,0 +1,18 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11107W4",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "templateId": 13,
+  "priority": "QA",
+  "aftnText": "SS 12345678 12345678 12345678\n041054 12345678\n12345678901234567890123456789012345678901234567890"
+}

@@ -1,0 +1,307 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10502W3",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2019-12-05T09:00:00",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "flight": {
+    "orgDateLcl": "2019-07-17",
+    "alCd": "JL",
+    "fltNo": "0651",
+    "lstDepApoCd": "HND",
+    "lstArrApoCd": "KOJ",
+    "csFlg": false
+  },
+  "spclPaxRcvDateTime": "2019-07-17T10:11:00",
+  "spclPaxGrp": [
+    {
+      "spclCareGrpId": 1,
+      "spclPax": [
+        {
+          "ssrCode": "CVIP",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "INFT",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "PRGN",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "UMNR",
+          "peopleNumber": 999
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 2,
+      "spclPax": [
+        {
+          "ssrCode": "WCHC",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "WCHR",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "WCHS",
+          "peopleNumber": 999
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 3,
+      "spclPax": [
+        {
+          "ssrCode": "STCR",
+          "peopleNumber": 999
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 4,
+      "spclPax": [
+        {
+          "ssrCode": "BLND",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "DEAF",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "DPNA",
+          "peopleNumber": 999
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 5,
+      "spclPax": [
+        {
+          "ssrCode": "INCP",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "MEDA",
+          "peopleNumber": 999
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 6,
+      "spclPax": [
+        {
+          "ssrCode": "DEPA",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "DEPU",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "INAD",
+          "peopleNumber": 999
+        },
+        {
+          "ssrCode": "PRSN",
+          "peopleNumber": 999
+        }
+      ]
+    }
+  ],
+  "spclLoadRcvDateTime": "2019-07-17T15:10:45",
+  "spclLoadGrp": [
+    {
+      "spclCareGrpId": 7,
+      "spclLoad": [
+        {
+          "spclLoadCode": "CAO",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 8,
+      "spclLoad": [
+        {
+          "spclLoadCode": "ICE",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RCL",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 9,
+      "spclLoad": [
+        {
+          "spclLoadCode": "REQ",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RMD",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 10,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RCX",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "REX",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RGX",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RXB",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RXC",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RXD",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RXE",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RXG",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RXS",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 11,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RFG",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RFL",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RFS",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RFW",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "ROP",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "ROX",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RSC",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 12,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RIS",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 13,
+      "spclLoad": [
+        {
+          "spclLoadCode": "MAG",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 14,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RNG",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 15,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RCM",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RPB",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RPG",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 16,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RSB",
+          "totalLoad": "999"
+        }
+      ]
+    },
+    {
+      "spclCareGrpId": 17,
+      "spclLoad": [
+        {
+          "spclLoadCode": "RRE",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RRW",
+          "totalLoad": "999"
+        },
+        {
+          "spclLoadCode": "RRY",
+          "totalLoad": "999"
+        }
+      ]
+    }
+  ],
+  "connectDbCat": "O"
+}

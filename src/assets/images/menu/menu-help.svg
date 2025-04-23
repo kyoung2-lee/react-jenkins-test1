@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.698 36.136">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #346181;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_7133" data-name="グループ化 7133" transform="translate(0 0)">
+    <line id="線_422" data-name="線 422" class="cls-1" x2="6.197" transform="translate(7.755 32.537)"/>
+    <line id="線_423" data-name="線 423" class="cls-1" x2="6.197" transform="translate(7.755 35.636)"/>
+    <path id="パス_1860" data-name="パス 1860" class="cls-2" d="M22.192,11.346A10.812,10.812,0,0,0,11.193.5,10.975,10.975,0,0,0,.5,10.881a11.1,11.1,0,0,0,4.338,9.14A4.617,4.617,0,0,1,6.7,23.74v4.338c0,1.239.62,2.014,1.549,2.014h6.2A1.464,1.464,0,0,0,16,28.542V23.894a4.407,4.407,0,0,1,1.7-3.563A11.375,11.375,0,0,0,22.192,11.346Z" transform="translate(-0.494 -0.498)"/>
+    <line id="線_424" data-name="線 424" class="cls-3" y2="13.943" transform="translate(10.854 15.496)"/>
+    <line id="線_425" data-name="線 425" class="cls-3" x2="3.098" y2="3.098" transform="translate(7.755 12.397)"/>
+    <line id="線_426" data-name="線 426" class="cls-3" x1="3.098" y2="3.098" transform="translate(10.854 12.397)"/>
+  </g>
+</svg>

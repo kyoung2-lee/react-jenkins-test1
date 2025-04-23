@@ -1,0 +1,72 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10701W1",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2021-12-01T11:00:00.0000000Z",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "timeLcl": "2021-12-01T11:00:00+09:00",
+  "spotRmksList": [
+    {
+      "trxId": "A",
+      "apoCd": "HND",
+      "spotNo": "01",
+      "dispSeq": 4,
+      "hideFlg": false,
+      "spotRmks": "aaaaaaaaaaaaaaaaa",
+      "updateTime": "2021-12-01T09:00:00"
+    },
+    {
+      "trxId": "A",
+      "apoCd": "HND",
+      "spotNo": "03",
+      "dispSeq": 1,
+      "hideFlg": false,
+      "spotRmks": "bbbbbbbbbbbbbbbbbb",
+      "updateTime": "2021-12-01T10:00:00"
+    },
+    {
+      "trxId": "A",
+      "apoCd": "HND",
+      "spotNo": "1",
+      "dispSeq": 2,
+      "hideFlg": false,
+      "spotRmks": "",
+      "updateTime": "2021-12-01T10:00:00"
+    },
+    {
+      "trxId": "A",
+      "apoCd": "HND",
+      "spotNo": "1-2",
+      "dispSeq": 2,
+      "hideFlg": false,
+      "spotRmks": "",
+      "updateTime": "2021-12-01T10:00:00"
+    },
+    {
+      "trxId": "A",
+      "apoCd": "HND",
+      "spotNo": "18",
+      "dispSeq": 1,
+      "hideFlg": true,
+      "spotRmks": "",
+      "updateTime": "2021-12-01T10:00:00"
+    },
+    {
+      "trxId": "A",
+      "apoCd": "HND",
+      "spotNo": "19",
+      "dispSeq": null,
+      "hideFlg": false,
+      "spotRmks": "",
+      "updateTime": "2021-12-01T10:00:00"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11301W2",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2020-09-10T09:00:00",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "2.0"
+  },
+  "fltScheduleList": [
+    {
+      "orgDateLcl": "2020-09-10",
+      "alCd": "JL",
+      "fltNo": "0651",
+      "casFltNo": null,
+      "casFltFlg": false,
+      "legList": [
+        {
+          "intDomCat": "D",
+          "skdlNonskdlCat": "SKD",
+          "paxCgoCat": "PAX",
+          "dispStatus": "Actual",
+          "skdLegSno": 101,
+          "rcvFltOrgLegPhySno": 201,
+          "legPhySno": 301,
+          "delFlg": false,
+          "cnlFlg": false,
+          "depApoCd": "HND",
+          "arrApoCd": "ITM",
+          "stdLcl": "2020-09-11T13:00:00",
+          "stdUtc": "2020-09-11T06:00:00",
+          "etdLcl": "2020-09-11T13:10:00",
+          "etdUtc": "2020-09-11T06:10:00",
+          "xtdLcl": "2020-09-11T13:10:00",
+          "xtdUtc": "2020-09-11T06:10:00",
+          "staLcl": "2020-09-11T13:10:00",
+          "staUtc": "2020-09-11T13:10:00",
+          "etaLcl": null,
+          "etaUtc": null,
+          "xtaLcl": null,
+          "xtaUtc": null,
+          "shipTypeIataCd": "78W",
+          "shipNo": "AA905W",
+          "svcTypeDiaCd": "FERY",
+          "onwardOrgDateLcl": "2020-09-12",
+          "onwardAlCd": "WW",
+          "onwardFltNo": "3333",
+          "depFisHideFlg": false,
+          "arrFisHideFlg": false,
+          "legSeq": 1,
+          "legDelFlg": false,
+          "legCnlFlg":false,
+          "legCreRsnCd": "CDE",
+          "legChgRsnCd": "VFR",
+          "legFltRemarks": "This is flight remarks",
+          "csList": [
+            {
+              "csAlCd": "JA",
+              "csFltNo": "234",
+              "csSeq": 1,
+              "dispSeq": 1
+            }
+          ],
+          "rowStatus": "Updated"
+        },
+        {
+          "intDomCat": "D",
+          "skdlNonskdlCat": "SKD",
+          "paxCgoCat": "PAX",
+          "dispStatus": "Actual",
+          "skdLegSno": 101,
+          "rcvFltOrgLegPhySno": 201,
+          "legPhySno": 301,
+          "delFlg": false,
+          "cnlFlg": false,
+          "depApoCd": "HND",
+          "arrApoCd": "ITM",
+          "stdLcl": "2020-09-11T13:00:00",
+          "stdUtc": "2020-09-11T06:00:00",
+          "etdLcl": "2020-09-11T13:10:00",
+          "etdUtc": "2020-09-11T06:10:00",
+          "xtdLcl": "2020-09-11T13:10:00",
+          "xtdUtc": "2020-09-11T06:10:00",
+          "staLcl": "2020-09-11T13:10:00",
+          "staUtc": "2020-09-11T13:10:00",
+          "etaLcl": null,
+          "etaUtc": null,
+          "xtaLcl": null,
+          "xtaUtc": null,
+          "shipTypeIataCd": "78W",
+          "shipNo": "AA905W",
+          "svcTypeDiaCd": "FERY",
+          "onwardOrgDateLcl": "2020-09-12",
+          "onwardAlCd": "WW",
+          "onwardFltNo": "3333",
+          "depFisHideFlg": false,
+          "arrFisHideFlg": false,
+          "legSeq": 1,
+          "legDelFlg": false,
+          "legCnlFlg":false,
+          "legCreRsnCd": "CDE",
+          "legChgRsnCd": "VFR",
+          "legFltRemarks": "This is flight remarks",
+          "csList": [
+            {
+              "csAlCd": "JA",
+              "csFltNo": "234",
+              "csSeq": 1,
+              "dispSeq": 1
+            }
+          ],
+          "rowStatus": "Updated"
+        },
+        {
+          "intDomCat": "D",
+          "skdlNonskdlCat": "SKD",
+          "paxCgoCat": "PAX",
+          "dispStatus": "Actual",
+          "skdLegSno": 101,
+          "rcvFltOrgLegPhySno": 201,
+          "legPhySno": 301,
+          "delFlg": false,
+          "cnlFlg": false,
+          "depApoCd": "HND",
+          "arrApoCd": "ITM",
+          "stdLcl": "2020-09-11T13:00:00",
+          "stdUtc": "2020-09-11T06:00:00",
+          "etdLcl": "2020-09-11T13:10:00",
+          "etdUtc": "2020-09-11T06:10:00",
+          "xtdLcl": "2020-09-11T13:10:00",
+          "xtdUtc": "2020-09-11T06:10:00",
+          "staLcl": "2020-09-11T13:10:00",
+          "staUtc": "2020-09-11T13:10:00",
+          "etaLcl": null,
+          "etaUtc": null,
+          "xtaLcl": null,
+          "xtaUtc": null,
+          "shipTypeIataCd": "78W",
+          "shipNo": "AA905W",
+          "svcTypeDiaCd": "FERY",
+          "onwardOrgDateLcl": "2020-09-12",
+          "onwardAlCd": "WW",
+          "onwardFltNo": "3333",
+          "depFisHideFlg": false,
+          "arrFisHideFlg": false,
+          "legSeq": 1,
+          "legDelFlg": false,
+          "legCnlFlg":false,
+          "legCreRsnCd": "CDE",
+          "legChgRsnCd": "VFR",
+          "legFltRemarks": "This is flight remarks",
+          "csList": [
+            {
+              "csAlCd": "JA",
+              "csFltNo": "234",
+              "csSeq": 1,
+              "dispSeq": 1
+            }
+          ],
+          "rowStatus": "Updated"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10206W1",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2018-11-30T01:28:08",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+	},
+	"now": "2018-11-30T01:28:08",
+	"mailAddrGrpList": [
+		{
+			"addrGrpId": 1,
+			"addrGrpCd": "HND1",
+			"addrGrpType": "M",
+			"addrGrpDispSeq": "1"
+		},
+		{
+			"addrGrpId": 2,
+			"addrGrpCd": "HND2",
+			"addrGrpType": "M",
+			"addrGrpDispSeq": "2"
+		},
+		{
+			"addrGrpId": 3,
+			"addrGrpCd": "HND3",
+			"addrGrpType": "M",
+			"addrGrpDispSeq": "3"
+		}
+	],
+	"ttyAddrGrpList": [
+		{
+			"addrGrpId": "101",
+			"addrGrpCd": "HND1",
+			"addrGrpType": "T",
+			"addrGrpDispSeq": "101"
+		},
+		{
+			"addrGrpId": "102",
+			"addrGrpCd": "HND2",
+			"addrGrpType": "T",
+			"addrGrpDispSeq": "102"
+		},
+		{
+			"addrGrpId": "103",
+			"addrGrpCd": "HND3",
+			"addrGrpType": "T",
+			"addrGrpDispSeq": "103"
+		}
+	],
+	"issuTemplateList": [
+		{
+			"apoCd": "HND",
+			"issuCd": "SWW",
+			"issuDtlCd": "CD1",
+			"mailFlg": true,
+			"ttyFlg": true,
+			"mailAddrGrpList": [ 1, "2", "3" ],
+			"mailAddrList": [ "kondo1.akio@headwaters.co.jp", "kondo2.akio@headwaters.co.jp", "kondo3.akio@headwaters.co.jp", "kondo4.akio@headwaters.co.jp", "kondo5.akio@headwaters.co.jp", "kondo6.akio@headwaters.co.jp", "kondo7.akio@headwaters.co.jp", "kondo8.akio@headwaters.co.jp" ],
+			"mailTitl": "タイトル1",
+			"mailText": "メッセージ1",
+			"ttyAddrGrpList": [ "101", "102" ],
+			"ttyAddrList": [ "AAAAAAA", "AAAAAAB" ],
+			"ttyPriorityCd": "QU",
+			"ttyText": "MESSAGE TTY"
+		},
+		{
+			"apoCd": "HND",
+			"issuCd": "TSW",
+			"issuDtlCd": "CD1",
+			"mailFlg": true,
+			"ttyFlg": true,
+			"mailAddrGrpList": [ "1", "2" ],
+			"mailAddrList": [ "kondo.akio@headwaters.co.jp", "" ],
+			"mailTitl": "タイトル2",
+			"mailText": "メッセージ2",
+			"ttyAddrGrpList": [],
+			"ttyAddrList": [ "AAAAAAC", "AAAAAAD" ],
+			"ttyPriorityCd": "QD",
+			"ttyText": "メッセージTTY2"
+		}
+	]
+}

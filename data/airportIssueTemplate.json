@@ -1,0 +1,30 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10206W1",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2018-11-30T01:28:08",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+	},
+	"issu": {
+		"apoCd": "HND",
+		"issuCd": "SWW",
+		"issuDtlCd": "CD1",
+		"mailFlg": false,
+		"ttyFlg": false,
+		"mailAddrGrpList": [ "1", "2" ],
+		"mailAddrList": [ "updated.akio@headwaters.co.jp", "updated.akio@headwaters.co.jp", "updated.akio@headwaters.co.jp", "kondo.akio@headwaters.co.jp", "kondo.akio@headwaters.co.jp", "kondo.akio@headwaters.co.jp", "kondo.akio@headwaters.co.jp", "kondo.akio@headwaters.co.jp", "kondo.akio@headwaters.co.jp" ],
+		"mailTitl": "タイトル テンプレート更新後",
+		"mailText": "メッセージ テンプレート更新後",
+		"ttyAddrGrpList": [ "101", "102" ],
+		"ttyAddrList": [ "CCCCCC", "CCCCCD" ],
+		"ttyPriorityCd": "1",
+		"ttyText": "メッセージTTY1"
+	}
+}

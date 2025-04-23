@@ -1,0 +1,86 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10100WE",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2018-11-30T01:28:08",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "flightDetailHeader": {
+    "orgDateLcl": "2019-07-17",
+    "alCd": "JL",
+    "fltNo": "0651",
+    "casFltNo": "",
+    "lstDepApoCd": "HND",
+    "lstArrApoCd": "KOJ",
+    "csFlg": false
+  },
+  "oalLegPaxList": [
+    {
+      "dataCd": "Salable",
+      "paxClsCd": "F",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Salable",
+      "paxClsCd": "C",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Salable",
+      "paxClsCd": "W",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Salable",
+      "paxClsCd": "Y",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Booked",
+      "paxClsCd": "F",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Booked",
+      "paxClsCd": "C",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Booked",
+      "paxClsCd": "W",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Booked",
+      "paxClsCd": "Y",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Actual",
+      "paxClsCd": "F",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Actual",
+      "paxClsCd": "C",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Actual",
+      "paxClsCd": "W",
+      "cnt": 999
+    },
+    {
+      "dataCd": "Actual",
+      "paxClsCd": "Y",
+      "cnt": 999
+    }
+  ]
+}

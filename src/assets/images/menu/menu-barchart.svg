@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.719 45.375">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_8608" data-name="グループ化 8608" transform="translate(-69.415 -84.611)">
+    <g id="plane_1_" transform="translate(69.415 84.611)">
+      <path id="パス_1850" data-name="パス 1850" class="cls-1" d="M30.475,11.159H6.712L5.47,7.587A1.492,1.492,0,0,0,4.072,6.5H.5l1.4,8.076a1.512,1.512,0,0,0,1.553,1.242H14.633L11.527,29.8h4.659l7.766-13.978H35.29a1.126,1.126,0,0,0,.777-1.864l-.932-.932A6.849,6.849,0,0,0,30.475,11.159Z" transform="translate(-0.5 2.819)"/>
+      <path id="パス_1851" data-name="パス 1851" class="cls-1" d="M10.606,13.535,7.5.5h3.727a1.631,1.631,0,0,1,1.4.777l7.3,12.258Z" transform="translate(3.372 -0.5)"/>
+    </g>
+    <rect id="長方形_3104" data-name="長方形 3104" class="cls-1" width="3.774" height="14.192" transform="translate(107.191 119.748) rotate(90)"/>
+    <rect id="長方形_3105" data-name="長方形 3105" class="cls-1" width="3.774" height="16.038" transform="translate(113.289 113.282) rotate(90)"/>
+    <rect id="長方形_3106" data-name="長方形 3106" class="cls-1" width="3.774" height="14.322" transform="translate(114.134 126.213) rotate(90)"/>
+  </g>
+</svg>

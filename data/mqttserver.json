@@ -1,0 +1,41 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10101W7",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2018-10-31T10:36:53",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "mqttServerList": [
+    {
+      "serverName": "MQTT00",
+      "url": "localhost",
+      "portNo": 1890,
+      "httpsFlg": false,
+      "serverActFlg": true,
+      "mqttConnectCnt": 2
+    },
+    {
+      "serverName": "MQTT01",
+      "url": "tt11dev.soala.crane.jal.biz",
+      "portNo": 8885,
+      "httpsFlg": true,
+      "serverActFlg": true,
+      "mqttConnectCnt": 1
+    },
+    {
+      "serverName": "MQTT02",
+      "url": "localhost",
+      "portNo": 1883,
+      "httpsFlg": false,
+      "serverActFlg": true,
+      "mqttConnectCnt": 3
+    }
+  ]
+}

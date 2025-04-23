@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-icon_Dark">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="icon_Dark" clip-path="url(#clip-icon_Dark)">
+    <g id="グループ_12532" data-name="グループ 12532" transform="translate(-5718 -15552)">
+      <g id="長方形_10303" data-name="長方形 10303" transform="translate(5718 15552)" fill="#346181" stroke="#346181" stroke-width="1">
+        <rect width="48" height="48" rx="5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="47" height="47" rx="4.5" fill="none"/>
+      </g>
+      <g id="グループ_12536" data-name="グループ 12536" transform="translate(5721.428 15559.857)">
+        <path id="前面オブジェクトで型抜き_8" data-name="前面オブジェクトで型抜き 8" d="M13.983,31.368a16.469,16.469,0,0,1-8.553-2.534A14.608,14.608,0,0,1-1.1,20.041,10.7,10.7,0,0,0,2.192,23a13.63,13.63,0,0,0,7.08,2.1A12.988,12.988,0,0,0,13.969,0h.014A15.684,15.684,0,0,1,25.072,26.774,15.579,15.579,0,0,1,13.983,31.368Z" transform="translate(8.886 1.518)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="多角形_3" data-name="多角形 3" d="M10,0l2.361,7.094H20l-6.18,4.384,2.361,7.094L10,14.187,3.82,18.571,6.18,11.478,0,7.094H7.639Z" transform="translate(5.5 7)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28.146">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_6621" data-name="グループ化 6621" transform="translate(-928 -678)">
+    <g id="グループ化_6625" data-name="グループ化 6625">
+      <circle id="楕円形_61" data-name="楕円形 61" class="cls-1" cx="10.152" cy="10.152" r="10.152" transform="translate(929 679)"/>
+      <path id="パス_1866" data-name="パス 1866" class="cls-1" d="M23.874,23.874h0a1.636,1.636,0,0,1-2.369,0l-3.948-3.948a1.636,1.636,0,0,1,0-2.369h0a1.636,1.636,0,0,1,2.369,0l3.948,3.948A1.634,1.634,0,0,1,23.874,23.874Z" transform="translate(930.618 680.618)"/>
+      <line id="線_384" data-name="線 384" class="cls-2" x1="2.256" y1="2.256" transform="translate(945.92 695.92)"/>
+    </g>
+  </g>
+</svg>

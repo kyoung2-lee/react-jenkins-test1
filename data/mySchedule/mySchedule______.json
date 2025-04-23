@@ -1,0 +1,27 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10401W1",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2022-10-03T14:37:12.7989402Z",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "staffAssignInformation": {
+    "employeeNumber": "jit07",
+    "familyName": "",
+    "firstName": "",
+    "iataAirport": "NGO",
+    "workDate": "",
+    "workStartTime": "",
+    "workEndTime": "",
+    "changeNoticeStatus": true,
+    "changeNotice": "シフトがありません。",
+    "taskInformation": []
+  }
+}

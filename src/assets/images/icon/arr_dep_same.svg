@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="20" viewBox="0 0 64 20">
+  <g id="グループ_13881" data-name="グループ 13881" transform="translate(-24 -208)">
+    <path id="パス_3542" data-name="パス 3542" d="M-4,0H60L52,20H4Z" transform="translate(28 208)" fill="#346181"/>
+    <text id="ARR" transform="translate(32 222)" fill="#fff" font-size="10" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">ARR</tspan></text>
+    <text id="DEP" transform="translate(59 222)" fill="#fff" font-size="10" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">DEP</tspan></text>
+  </g>
+</svg>

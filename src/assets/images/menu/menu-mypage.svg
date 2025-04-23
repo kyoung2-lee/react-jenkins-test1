@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.962 33.962">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #346181;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_8613" data-name="グループ化 8613" transform="translate(-291.019 -260.755)">
+    <circle id="Image" class="cls-1" cx="16.981" cy="16.981" r="16.981" transform="translate(291.019 260.755)"/>
+    <path id="合体_8" data-name="合体 8" class="cls-2" d="M0,18.707V16.369c0-2.573,4.209-4.677,9.354-4.677s9.354,2.1,9.354,4.677v2.338ZM4.676,4.677A4.677,4.677,0,1,1,9.354,9.354,4.677,4.677,0,0,1,4.676,4.677Z" transform="translate(298.747 268.493)"/>
+  </g>
+</svg>

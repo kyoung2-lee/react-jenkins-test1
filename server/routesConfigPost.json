@@ -1,0 +1,78 @@
+{
+  "//":"POST用",
+  "//1": "カスタムのレスポンスを返す回数（例）0:カスタムのレスポンスを使わない 1: 1個目の配列を常に返す 3:1〜3個目の配列を繰り返し返す",
+  "customResponseCount": 0,
+  "//2": "responsefileNameがnullの場合、200の場合、元のレスポンスを返す、200以外の場合、元のレスポンスファイル名＋statusCodeのファイルがあればその内容を返す（無ければレスポンスなし）",
+  "responseDataList": [
+    {
+      "//": "正常",
+      "statusCode" : 200,
+      "responsefileName": null
+    },
+    {
+      "//": "該当レコードなし",
+      "statusCode" : 404,
+      "responsefileName": ""
+    },
+    {
+      "//": "該当レコードなし（スレッド）",
+      "statusCode" : 404,
+      "responsefileName": "error/errorTypeThread.json"
+    },
+    {
+      "//": "コンフリクト",
+      "statusCode" : 409,
+      "responsefileName": ""
+    },
+    {
+      "//": "バリデーションエラー",
+      "statusCode" : 422,
+      "responsefileName": null
+    },
+    {
+      "//": "パラメータエラー",
+      "statusCode" : 400,
+      "responsefileName": ""
+    },
+    {
+      "//": "認証エラー（ID、パスワード不正）",
+      "statusCode" : 401,
+      "responsefileName": ""
+    },
+    {
+      "//": "認証エラー（処理中断）",
+      "statusCode" : 401,
+      "responsefileName": "error/errorTypeSession.json"
+    },
+    {
+      "//": "アカウントロック(通常は起こり得ない) または 参照権限なし",
+      "statusCode" : 403,
+      "responsefileName": null
+    },
+    {
+      "//": "権限なしエラー",
+      "statusCode" : 405,
+      "responsefileName": null
+    },
+    {
+      "//": "権限なしエラー（所属空港）",
+      "statusCode" : 405,
+      "responsefileName": "error/errorTypeApoCd.json"
+    },
+    {
+      "//": "その他のエラー",
+      "statusCode" : 500,
+      "responsefileName": ""
+    },
+    {
+      "//": "DB関連でエラー",
+      "statusCode" : 512,
+      "responsefileName": ""
+    },
+    {
+      "//": "MQ関連でエラー",
+      "statusCode" : 513,
+      "responsefileName": ""
+    }
+  ]
+}

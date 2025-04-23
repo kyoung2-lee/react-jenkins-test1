@@ -1,0 +1,10 @@
+services:
+  frontend:
+    container_name: frontend
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - "80:80"
+    environment:
+      - NODE_OPTIONS=--max_old_space_size=4096

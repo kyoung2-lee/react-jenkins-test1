@@ -1,0 +1,76 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10502W3",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2019-12-05T09:00:00",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "flight": {
+    "orgDateLcl": "2019-07-17",
+    "alCd": "JL",
+    "fltNo": "0651",
+    "casFltNo": "",
+    "lstDepApoCd": "HND",
+    "lstArrApoCd": "KOJ",
+    "csFlg": false
+  },
+  "history": [
+    {
+      "changeTime": "2019-07-17T04:23:00:000000",
+      "changeBy": "FIS",
+      "changeItemDispName": "ETD",
+      "changeValueBef": "",
+      "changeValueAfr": "171555L"
+    },
+    {
+      "changeTime": "2019-07-17T03:40:00:000000",
+      "changeBy": "BRIC",
+      "changeItemDispName": "Fuel Ack",
+      "changeValueBef": "30373",
+      "changeValueAfr": "30373"
+    },
+    {
+      "changeTime": "2019-07-17T01:57:00:000000",
+      "changeBy": "FPM",
+      "changeItemDispName": "Flight Plan Release",
+      "changeValueBef": "28859",
+      "changeValueAfr": "28800"
+    },
+    {
+      "changeTime": "2019-07-17T01:54:00:000000",
+      "changeBy": "STELA",
+      "changeItemDispName": "SHIP Change",
+      "changeValueBef": "JA611J",
+      "changeValueAfr": "JA610J<DLMT>DUE TO JA610J MNT SKDL"
+    },
+    {
+      "changeTime": "2019-07-16T19:23:00:000000",
+      "changeBy": "FPM",
+      "changeItemDispName": "Flight Plan Release",
+      "changeValueBef": "",
+      "changeValueAfr": "28859"
+    },
+    {
+      "changeTime": "2019-07-16T00:23:00:000000",
+      "changeBy": "STELA",
+      "changeItemDispName": "SHIP Assign",
+      "changeValueBef": null,
+      "changeValueAfr": "<DLMT>JA610J"
+    },
+    {
+      "changeTime": "2019-07-13T18:33:00:000000",
+      "changeBy": "FIS",
+      "changeItemDispName": "Spot Assign",
+      "changeValueBef": null,
+      "changeValueAfr": "<DLMT>8 / 10"
+    }
+  ],
+  "connectDbCat": "O"
+}

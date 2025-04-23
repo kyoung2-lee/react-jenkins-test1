@@ -1,0 +1,48 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11101W1",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "jstFlg": false,
+  "archiveFlg": false,
+  "threadList": [{
+    "bbId": 1,
+    "catCdList": ["FLIGHT", "SECURITY"],
+    "updateTime": "2019-10-10T12:18:00",
+    "jobCd": "HNDSO",
+    "bbTitle": "ITM運用制限時間超過の可能性あり"
+  }, {
+    "bbId": 2,
+    "catCdList": ["SECURITY"],
+    "updateTime": "2019-10-10T12:15:00",
+    "jobCd": "IOC",
+    "bbTitle": "台風17号関連"
+  }, {
+    "bbId": 3,
+    "catCdList": ["PUBLIC"],
+    "updateTime": "2019-10-10T12:25:00",
+    "jobCd": "IOC",
+    "bbTitle": "スレッドA"
+  }, {
+    "bbId": 4,
+    "catCdList": ["STAR"],
+    "updateTime": "2019-10-10T13:30:00",
+    "jobCd": "IOC",
+    "bbTitle": "スレッドB"
+  }, {
+    "bbId": 5,
+    "catCdList": ["STAR_IOC", "BAGGAGE"],
+    "updateTime": "2019-10-10T13:30:00",
+    "jobCd": "IOC",
+    "bbTitle": "スレッドC"
+  }]
+}

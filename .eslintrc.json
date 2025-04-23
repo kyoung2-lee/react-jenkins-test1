@@ -1,0 +1,121 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": [
+    "airbnb",
+    "airbnb/hooks",
+    "airbnb-typescript",
+    // "plugin:react/recommended",
+    // "plugin:react-hooks/recommended",
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended", // 型チェックが不要なルールを適用
+    "plugin:@typescript-eslint/recommended-requiring-type-checking", // 型チェックが必要なルールを適用
+    "plugin:import/recommended",
+    "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": "latest",
+    "sourceType": "module",
+    "project": "./tsconfig.json"
+  },
+  "plugins": ["react", "react-hooks", "@typescript-eslint", "import"],
+  "settings": {
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"]
+    },
+    "import/resolver": {
+      "typescript": {
+        "alwaysTryTypes": true,
+        "project": "./"
+      }
+    }
+    // "import/extensions": [".js", ".jsx", ".ts", ".tsx"],
+    // "import/core-modules": ["app"],
+    // "import/resolver": {
+    //   node: {
+    //     extensions: [".js", ".jsx", ".ts", ".tsx"],
+    //   },
+    // },
+  },
+  "rules": {
+    "no-console": "off",
+    "no-continue": "off",
+    "no-plusplus": ["error", { "allowForLoopAfterthoughts": true }],
+    "no-void": ["error", { "allowAsStatement": true }],
+    "@typescript-eslint/no-namespace": "off",
+    "@typescript-eslint/naming-convention": "off",
+    "@typescript-eslint/default-param-last": "off",
+    "@typescript-eslint/lines-between-class-members": ["error", { "exceptAfterOverload": true }],
+    "@typescript-eslint/no-use-before-define": "off",
+    "@typescript-eslint/no-unused-vars": [
+      "warn",
+      {
+        "argsIgnorePattern": "^_"
+      }
+    ],
+    "react/destructuring-assignment": "off",
+    "react/no-unused-prop-types": "warn",
+    "react/require-default-props": ["error", { "classes": "ignore", "functions": "ignore" }],
+    "react/function-component-definition": [
+      "error",
+      {
+        "namedComponents": ["function-expression", "arrow-function"]
+      }
+    ],
+    "react/jsx-props-no-spreading": "off",
+    "react/prefer-stateless-function": "off",
+    "react/jsx-no-useless-fragment": "off",
+    "class-methods-use-this": "off",
+    "no-param-reassign": [
+      "error",
+      {
+        "props": true,
+        "ignorePropertyModificationsForRegex": ["state"]
+      }
+    ],
+    "no-nested-ternary": "off",
+    // "semi": [
+    //   "error",
+    //   "never",
+    //   { "beforeStatementContinuationChars": "always" },
+    // ],
+    // semi: ["error", "always"],
+    "quotes": ["error", "double", { "avoidEscape": true, "allowTemplateLiterals": false }],
+    "max-len": [
+      "error",
+      {
+        "code": 140,
+        "ignoreComments": true,
+        "ignoreTrailingComments": true,
+        "ignoreStrings": true,
+        "ignoreTemplateLiterals": true,
+        "ignoreRegExpLiterals": true,
+        "ignoreUrls": true
+      }
+    ],
+    "lines-between-class-members": [
+      "error",
+      "always",
+      {
+        "exceptAfterSingleLine": true
+      }
+    ],
+    "react/jsx-filename-extension": [
+      "error",
+      {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    ],
+    "import/no-cycle": ["error", { "maxDepth": 1 }],
+    "import/no-unresolved": "error",
+    "import/prefer-default-export": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/tabindex-no-positive": "off"
+  }
+}

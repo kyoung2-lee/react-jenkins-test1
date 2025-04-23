@@ -1,0 +1,35 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11106W4",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "templateId": 14,
+  "commGrpIdList": [
+    1,
+    2,
+    3
+  ],
+  "jobGrpIdList": [
+    1,
+    2,
+    3
+  ],
+  "jobIdList": [
+    1,
+    2,
+    3
+  ],
+  "ntfTitle": "003 Airport Facility XX related",
+  "ntfText":
+    "From 003IOC, there was a report that the previous flight was delayed due to bad weather, and there was a possibility that the ETA of this flight might be subject to ITM operation restrictions due to the ball. We will contact you for further information later.",
+  "soundFlg": false
+}

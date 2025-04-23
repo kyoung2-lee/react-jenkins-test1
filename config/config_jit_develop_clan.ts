@@ -1,0 +1,9 @@
+export namespace ServerConfig {
+    export const API_SERVER_PRIORITY = "http://wwwdev.soala.crane.jal.biz/api/v3";
+    export const API_SERVER_COMMON = "http://wwwdev.soala.crane.jal.biz/api/v3";
+    export const USER_LOGIN_URL = "http://wwwdev.soala.crane.jal.biz/login";
+    export const MYPAGE_URL = "http://wwwdev.soala.crane.jal.biz/content/v3/mypage";
+    export const HELP_URL = "http://wwwdev.soala.crane.jal.biz/content/v3/help";
+    export const BASE_ROUTE = "/spa";
+    export const MQTT_PUBSUB_VERSION = "V3";
+};

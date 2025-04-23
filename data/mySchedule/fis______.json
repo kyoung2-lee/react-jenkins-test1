@@ -1,0 +1,27 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10401W3",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2022-07-21T09:04:39.4751191Z",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "timeLcl": "2022-07-21T18:04:38+09:00",
+  "apoCd": "HND",
+  "apoDetail": {
+    "targetArea": "JP",
+    "dispRangeFrom": -6,
+    "dispRangeTo": 6,
+    "fisDataRangeFrom": null,
+    "legDataRangeFrom": null,
+    "getFromTimeLcl": "2022-07-21T00:00:00",
+    "getToTimeLcl": "2022-07-25T00:00:00"
+  },
+  "fis": []
+}

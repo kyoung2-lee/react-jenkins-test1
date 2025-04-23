@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.505 45.271">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_8610" data-name="グループ化 8610" transform="translate(-69.415 -211.555)">
+    <g id="plane_1_" transform="translate(69.415 211.554)">
+      <path id="パス_1850" data-name="パス 1850" class="cls-1" d="M30.475,11.159H6.712L5.47,7.587A1.492,1.492,0,0,0,4.072,6.5H.5l1.4,8.076a1.512,1.512,0,0,0,1.553,1.242H14.633L11.527,29.8h4.659l7.766-13.978H35.29a1.126,1.126,0,0,0,.777-1.864l-.932-.932A6.849,6.849,0,0,0,30.475,11.159Z" transform="translate(-0.5 2.819)"/>
+      <path id="パス_1851" data-name="パス 1851" class="cls-1" d="M10.606,13.535,7.5.5h3.727a1.631,1.631,0,0,1,1.4.777l7.3,12.258Z" transform="translate(3.372 -0.5)"/>
+    </g>
+    <g id="グループ化_7130" data-name="グループ化 7130" transform="translate(97.925 236.831)">
+      <circle id="楕円形_80" data-name="楕円形 80" class="cls-2" cx="7.807" cy="7.807" r="7.807" transform="translate(0 0)"/>
+      <path id="パス_1855" data-name="パス 1855" class="cls-1" d="M22.3,22.3h0a1.258,1.258,0,0,1-1.822,0L17.44,19.262a1.258,1.258,0,0,1,0-1.822h0a1.258,1.258,0,0,1,1.822,0L22.3,20.476A1.257,1.257,0,0,1,22.3,22.3Z" transform="translate(-2.694 -2.694)"/>
+      <line id="線_421" data-name="線 421" class="cls-3" x1="1.735" y1="1.735" transform="translate(13.012 13.012)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,277 @@
+{
+    "commonHeader": {
+        "interfaceIdentifier": "S10502W1",
+        "messageReference": {
+            "creatorReference": {
+                "creationTime": "2018-10-17T10:12:50",
+                "receiverSystem": "",
+                "senderSystem": ""
+            }
+        },
+        "messageFormatVersion": "01.01.01",
+        "dataCount": 1,
+        "apiVersion": "1.0"
+    },
+    "timeUtc": "2018-10-17T19:12:50",
+    "timeLcl": "2018-10-17T10:12:50",
+    "flight": {
+        "alCd": "JL",
+        "fltNo": "0155",
+        "csCnt": 1,
+        "orgDateUtc": "2018-10-02",
+        "orgDateLcl": "2018-10-02",
+        "fisFltSts": "B/I",
+        "shipNo": "JA348J",
+        "seatConfCd": "V32",
+        "wingletFlg": true,
+        "shipTypeDiaCd": "73H",
+        "estEdctUtc": "2018-10-02T01:32:00",
+        "estEdctLcl": "2018-10-02T10:32:00",
+        "actEdctUtc": "2018-10-02T01:34:00",
+        "actEdctLcl": "2018-10-02T10:34:00",
+        "mayrtnFlg": true,
+        "maydivFlg": false,
+        "maydivApoCd": [
+            "NRT",
+            "ITM",
+            "FUK"
+        ],
+        "intDomCat": "D",
+        "paxCgoCat": "P",
+        "skdlNonskdlCat": "000",
+        "svcTypeDiaCd": "0000",
+        "divFlg": true,
+        "atbFlg": false,
+        "gtbFlg": false,
+        "cancelFlg": false,
+        "cancelRsnCd": "0000",
+        "ccEmprAlCd": "JL1",
+        "caEmprAlCd": "JL2",
+        "omAlCd": "JL3",
+        "trAlCd": "JL4",
+        "cs": [
+            {
+                "csAlCd": "AF",
+                "csFltNo": "3439"
+            },
+            {
+                "csAlCd": "BA",
+                "csFltNo": "1035"
+            },
+            {
+                "csAlCd": "CX",
+                "csFltNo": "2055"
+            },
+            {
+                "csAlCd": "DX",
+                "csFltNo": "2011"
+            },
+            {
+                "csAlCd": "MU",
+                "csFltNo": "1511"
+            }
+        ]
+    },
+    "dep": {
+        "lstDepApoCd": "HD",
+        "depApoSpotNo": "13",
+        "acceptanceSts": "FF",
+        "boardingSts": "BC",
+        "depGateNo": "13A",
+        "rampFuelLbsWt": "233,018",
+        "fuelOrderFlg": true,
+        "lsFlg": true,
+        "stdUtc": "2018-10-02T01:45:00",
+        "stdLcl": "2018-10-02T10:45:00",
+        "etdUtc": "2018-10-02T01:48:00",
+        "etdLcl": "2018-10-02T10:48:00",
+        "atdUtc": "2018-10-02T01:51:00",
+        "atdLcl": "2018-10-02T10:51:00",
+        "actToUtc": "2018-10-02T02:05:00",
+        "actToLcl": "2018-10-02T11:05:00",
+        "tentativeEtdUtc": "2018-10-02T01:46:00",
+        "tentativeEtdLcl": "2018-10-02T10:46:00",
+        "tentativeEtdCd": "MNR",
+        "depDlyRsnCd": [
+            "AA",
+            "BB",
+            "CC",
+            "DD"
+        ],
+        "depDlyTime": [
+            5,
+            0,
+            0,
+            0
+        ],
+        "eftMin": 0,
+        "depRmksText": "出発便の滑走路に落下物があったため、滑走路が一時閉鎖されていました。",
+        "workStep": [
+            {
+                "workStepCd": "CLST",
+                "workStepName": "Deplaning<br>Finish",
+                "workEndFlg": false,
+                "workAutoEndFlg": false,
+                "actWorkEndTimeUtc": "2018-10-02T00:48:00",
+                "actWorkEndTimeLcl": "2018-10-02T09:48:00",
+                "workStepSeq": 0
+            },
+            {
+                "workStepCd": "CLFN",
+                "workStepName": "Cleaning<br>Finish",
+                "workEndFlg": false,
+                "workAutoEndFlg": false,
+                "actWorkEndTimeUtc": "2018-10-02T00:57:00",
+                "actWorkEndTimeLcl": "2018-10-02T09:57:00",
+                "workStepSeq": 0
+            },
+            {
+                "workStepCd": "CBRD",
+                "workStepName": "Cabin<br>Ready",
+                "workEndFlg": false,
+                "workAutoEndFlg": false,
+                "actWorkEndTimeUtc": "2018-10-02T01:01:00",
+                "actWorkEndTimeLcl": "2018-10-02T10:01:00",
+                "workStepSeq": 0
+            },
+            {
+                "workStepCd": "BDST",
+                "workStepName": "Boarding<br>Open",
+                "workEndFlg": false,
+                "workAutoEndFlg": false,
+                "actWorkEndTimeUtc": "2018-10-02T01:04:00",
+                "actWorkEndTimeLcl": "2018-10-02T10:04:00",
+                "workStepSeq": 0
+            },
+            {
+                "workStepCd": "BDCL",
+                "workStepName": "Boarding<br>Close",
+                "workEndFlg": false,
+                "workAutoEndFlg": false,
+                "actWorkEndTimeUtc": "2018-10-02T01:17:00",
+                "actWorkEndTimeLcl": "2018-10-02T10:17:00",
+                "workStepSeq": 0
+            },
+            {
+                "workStepCd": "DRCL",
+                "workStepName": "Door<br>Close",
+                "workEndFlg": false,
+                "workAutoEndFlg": false,
+                "actWorkEndTimeUtc": "2018-10-02T01:27:00",
+                "actWorkEndTimeLcl": "2018-10-02T10:27:00",
+                "workStepSeq": 0
+            }
+        ],
+        "sumEstEdctUtcAndEftMin": null,
+        "sumEstEdctLclAndEftMin": null,
+        "sumActEdctUtcAndEftMin": null,
+        "sumActEdctLclAndEftMin": null
+    },
+    "arr": {
+        "lstArrApoCd": "ITM",
+        "arrApoSpotNo": "8",
+        "skdArrApoCd": "OKA",
+        "staUtc": "2018-10-02T02:45:00",
+        "staLcl": "2018-10-02T11:45:00",
+        "etaUtc": "2018-10-02T02:48:00",
+        "etaLcl": "2018-10-02T11:48:00",
+        "ataUtc": "2018-10-02T02:54:00",
+        "ataLcl": "2018-10-02T11:54:00",
+        "actLdUtc": "2018-10-02T02:51:00",
+        "actLdLcl": "2018-10-02T11:51:00",
+        "tentativeEtaUtc": "2018-10-02T02:50:00",
+        "tentativeEtaLcl": "2018-10-02T11:50:00",
+        "tentativeEtaCd": "MNR",
+        "arrDlyRsnCd": [
+            "EE",
+            "FF",
+            "GG",
+            "HH"
+        ],
+        "arrDlyTime": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "arrRmksText": "到着便の滑走路に落下物があったため、滑走路が一時閉鎖されていました。"
+    },
+    "pax": {
+        "salable": {
+            "total": 0,
+            "fCls": 0,
+            "cCls": 0,
+            "jCls": 0,
+            "yCls": 0
+        },
+        "booked": {
+            "total": 0,
+            "fCls": 0,
+            "cCls": 0,
+            "jCls": 0,
+            "yCls": 0
+        },
+        "actual": {
+            "total": 0,
+            "fCls": 0,
+            "cCls": 0,
+            "jCls": 0,
+            "yCls": 0,
+            "inft": 0
+        }
+    },
+    "crew": {
+        "ccCnt": 0,
+        "dhCcCnt": 0,
+        "asCrewTtlCnt": 0,
+        "asPaxTtlCnt": 0,
+        "caCnt": 0,
+        "dhCaCnt": 0,
+        "fltWqCd": "AA",
+        "pic": {
+            "familyName": "SATO",
+            "initialName": "SS",
+            "fltDutyCd": "BB",
+            "crewfromOrgDateLcl": "2018-10-01T10:50:00",
+            "crewfromAlCd": "JL",
+            "crewfromFltNo": "2345",
+            "crewnextOrgDateLcl": "2018-10-03T12:50:00",
+            "crewnextAlCd": "JL",
+            "crewnextFltNo": "7654"
+        },
+        "cf": {
+            "familyName": "KONDOU",
+            "initialName": "KK",
+            "fltDutyCd": "CC",
+            "crewfromOrgDateLcl": "2018-10-01T10:50:00",
+            "crewfromAlCd": "AA",
+            "crewfromFltNo": "6666",
+            "crewnextOrgDateLcl": "2018-10-03T12:50:00",
+            "crewnextAlCd": "VN",
+            "crewnextFltNo": "7022"
+        },
+        "other": [
+            {
+                "otherCrewCat": "P",
+                "otherCrewCnt": 0,
+                "otherCrewInfo": "YAMADA"
+            },
+            {
+                "otherCrewCat": "C",
+                "otherCrewCnt": 0,
+                "otherCrewInfo": "XXX TEAM"
+            },
+            {
+                "otherCrewCat": "N",
+                "otherCrewCnt": 0,
+                "otherCrewInfo": "XXXXXXXXX"
+            },
+            {
+                "otherCrewCat": "P",
+                "otherCrewCnt": 0,
+                "otherCrewInfo": "AAAAAAA"
+            }
+        ]
+    },
+    "connectDbCat": "O"
+}

@@ -1,0 +1,15 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10701W2",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2021-07-12T10:36:53",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+	}
+}

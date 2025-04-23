@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.745 47.862">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_8609" data-name="グループ化 8609" transform="translate(-189.415 -84.611)">
+    <g id="plane_1_" transform="translate(189.415 84.611)">
+      <path id="パス_1850" data-name="パス 1850" class="cls-1" d="M30.475,11.159H6.712L5.47,7.587A1.492,1.492,0,0,0,4.072,6.5H.5l1.4,8.076a1.512,1.512,0,0,0,1.553,1.242H14.633L11.527,29.8h4.659l7.766-13.978H35.29a1.126,1.126,0,0,0,.777-1.864l-.932-.932A6.849,6.849,0,0,0,30.475,11.159Z" transform="translate(-0.5 2.819)"/>
+      <path id="パス_1851" data-name="パス 1851" class="cls-1" d="M10.606,13.535,7.5.5h3.727a1.631,1.631,0,0,1,1.4.777l7.3,12.258Z" transform="translate(3.372 -0.5)"/>
+    </g>
+    <g id="グループ化_7128" data-name="グループ化 7128" transform="translate(216.774 111.505)">
+      <path id="パス_1853" data-name="パス 1853" class="cls-2" d="M19.469,2.5h3a1.074,1.074,0,0,1,1,1v17.97a1.074,1.074,0,0,1-1,1H1.5a1,1,0,0,1-1-1V3.5a1,1,0,0,1,1-1h3" transform="translate(-0.075 -2.5)"/>
+      <line id="線_413" data-name="線 413" class="cls-2" x2="0.998" transform="translate(11.407 7.877)"/>
+      <line id="線_414" data-name="線 414" class="cls-2" x2="0.998" transform="translate(16.398 7.877)"/>
+      <line id="線_415" data-name="線 415" class="cls-2" x2="0.998" transform="translate(6.415 11.925)"/>
+      <line id="線_416" data-name="線 416" class="cls-2" x2="0.998" transform="translate(11.407 11.925)"/>
+      <line id="線_417" data-name="線 417" class="cls-2" x2="0.998" transform="translate(16.398 11.925)"/>
+      <line id="線_418" data-name="線 418" class="cls-2" x2="0.998" transform="translate(6.415 15.974)"/>
+      <line id="線_419" data-name="線 419" class="cls-2" x2="0.998" transform="translate(11.407 15.974)"/>
+      <path id="パス_2042" data-name="パス 2042" class="cls-3" d="M-4,0H10.536" transform="translate(8.638 0)"/>
+      <rect id="長方形_3076" data-name="長方形 3076" class="cls-1" width="23.585" height="4.717" transform="translate(0 0.061)"/>
+    </g>
+  </g>
+</svg>

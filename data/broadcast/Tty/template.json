@@ -1,0 +1,28 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11104W4",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "templateId": 13,
+  "ttyAddrGrpIdList": [
+    2,
+    4,
+    6
+  ],
+  "ttyAddrList": [
+    "AAAAAAB",
+    "AAAAAAC",
+    "AAAAAAD"
+  ],
+  "ttyPriorityCd": "QA",
+  "ttyText": "-- MAINTENANCE INFO ---\nPLEASE CHK FOLLOW INFO ABOUT APT MENT\n010145-010541\n010145-010542\n010145-010543\n010145-010544\n010145-010545\nNO ENTRY AREA/// GATE 1/2/3/8/13\n01234567890123456789012345678901234567890"
+}

@@ -1,0 +1,65 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10601W1",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2021-10-01T05:29:13.2304032Z",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "oal2Legkey": {
+    "orgDateLcl": "2021-10-01",
+    "alCd": "ZA",
+    "fltNo": "1111",
+    "casFltNo": "",
+    "skdDepApoCd": "NRT",
+    "skdArrApoCd": "PEK",
+    "skdLegSno": 0
+  },
+  "csCnt": 0,
+  "fisFltSts": null,
+  "irrSts": null,
+  "legCnlFlg": false,
+  "depInfo": {
+    "etdLcl": null,
+    "tentativeEtdLcl": null,
+    "tentativeEtdCd": null,
+    "atdLcl": null,
+    "actToLcl": null,
+    "depDlyInfo": [
+      {
+        "depDlyTime": 100,
+        "depDlyTimeRsnCd": "CE"
+      }
+    ],
+    "lstDepApoCd": "NRT",
+    "lstDepApoTimeDiffUtc": 900,
+    "stdLcl": "2021-10-01T15:00:00",
+    "firstAtdLcl": null,
+    "returnInLcl": null,
+    "estReturnInLcl": null,
+    "depApoSpotNo": null,
+    "rtrOccurCnt": null
+  },
+  "arrInfo": {
+    "etaLcl": null,
+    "tentativeEtaLcl": null,
+    "tentativeEtaCd": null,
+    "estBiLcl": null,
+    "tentativeEstLdLcl": null,
+    "tentativeEstLdCd": null,
+    "estLdLcl": null,
+    "actLdLcl": null,
+    "ataLcl": null,
+    "lstArrApoCd": "PEK",
+    "lstArrApoTimeDiffUtc": 900,
+    "staLcl": "2021-10-01T16:00:00",
+    "arrApoSpotNo": null
+  },
+  "connectDbCat": "O"
+}

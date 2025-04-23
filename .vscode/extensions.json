@@ -1,0 +1,3 @@
+{
+  "recommendations": ["eamodio.gitlens", "styled-components.vscode-styled-components", "esbenp.prettier-vscode", "dbaeumer.vscode-eslint", "ms-vscode-remote.remote-containers"]
+}

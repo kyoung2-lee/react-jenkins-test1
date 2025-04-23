@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.61 30.685">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #346181;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="グループ化_7131" data-name="グループ化 7131" transform="translate(0.5 0.522)">
+    <path id="パス_1856" data-name="パス 1856" class="cls-1" d="M7.457,23.188H4.674A4.1,4.1,0,0,1,.5,19.014V9.274A4.1,4.1,0,0,1,4.674,5.1H7.457Z" transform="translate(-0.5 1.34)"/>
+    <path id="パス_1857" data-name="パス 1857" class="cls-1" d="M5.5,25a35.727,35.727,0,0,1,17.67,5.009c.835.417,1.809-.417,1.809-1.391V1.9c0-.974-.974-1.809-1.809-1.252C18.718,3.294,12.457,6.911,5.5,6.911Z" transform="translate(1.457 -0.472)"/>
+    <path id="パス_1858" data-name="パス 1858" class="cls-1" d="M20.891,19.231H19.5V8.1h1.391a2.791,2.791,0,0,1,2.783,2.783v5.566A2.791,2.791,0,0,1,20.891,19.231Z" transform="translate(6.936 2.514)"/>
+  </g>
+</svg>

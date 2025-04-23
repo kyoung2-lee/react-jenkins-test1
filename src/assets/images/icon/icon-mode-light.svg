@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-icon_Light">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="icon_Light" clip-path="url(#clip-icon_Light)">
+    <g id="グループ_12533" data-name="グループ 12533" transform="translate(-4 -2)">
+      <circle id="楕円形_171" data-name="楕円形 171" cx="11.245" cy="11.245" r="11.245" transform="translate(16.755 14.755)" fill="#346181"/>
+      <rect id="長方形_10289" data-name="長方形 10289" width="9.639" height="3.213" rx="1.606" transform="translate(42.361 24.394)" fill="#346181"/>
+      <rect id="長方形_10290" data-name="長方形 10290" width="9.639" height="3.213" rx="1.606" transform="translate(4 24.394)" fill="#346181"/>
+      <rect id="長方形_10291" data-name="長方形 10291" width="9.639" height="3.213" rx="1.606" transform="translate(26.394 11.639) rotate(-90)" fill="#346181"/>
+      <rect id="長方形_10292" data-name="長方形 10292" width="9.639" height="3.213" rx="1.606" transform="translate(26.394 50) rotate(-90)" fill="#346181"/>
+      <rect id="長方形_10293" data-name="長方形 10293" width="9.639" height="3.213" rx="1.606" transform="translate(41.228 31.793) rotate(30)" fill="#346181"/>
+      <rect id="長方形_10294" data-name="長方形 10294" width="9.639" height="3.213" rx="1.606" transform="translate(8.031 12.608) rotate(30)" fill="#346181"/>
+      <rect id="長方形_10295" data-name="長方形 10295" width="9.639" height="3.213" rx="1.606" transform="translate(33.792 12.771) rotate(-60)" fill="#346181"/>
+      <rect id="長方形_10296" data-name="長方形 10296" width="9.639" height="3.213" rx="1.606" transform="translate(14.606 45.968) rotate(-60)" fill="#346181"/>
+      <rect id="長方形_10297" data-name="長方形 10297" width="9.639" height="3.213" rx="1.606" transform="translate(36.573 37.622) rotate(60)" fill="#346181"/>
+      <rect id="長方形_10298" data-name="長方形 10298" width="9.639" height="3.213" rx="1.606" transform="translate(17.388 4.425) rotate(60)" fill="#346181"/>
+      <rect id="長方形_10299" data-name="長方形 10299" width="9.639" height="3.213" rx="1.606" transform="translate(39.622 17.424) rotate(-30)" fill="#346181"/>
+      <rect id="長方形_10300" data-name="長方形 10300" width="9.639" height="3.213" rx="1.606" transform="translate(6.425 36.612) rotate(-30)" fill="#346181"/>
+    </g>
+  </g>
+</svg>

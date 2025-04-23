@@ -1,0 +1,64 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10602W1",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2023-03-29T01:59:59",
+        "receiverSystem": "",
+        "senderSystem": ""
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "legkey": {
+    "orgDateLcl": "2023-03-29",
+    "alCd": "CI",
+    "fltNo": "7777",
+    "casFltNo": "",
+    "skdDepApoCd": "HND",
+    "skdArrApoCd": "KOJ",
+    "skdLegSno": 0
+  },
+  "csCnt": 1,
+  "fisFltSts": "",
+  "irrSts": "",
+  "legCnlFlg": false,
+  "depInfo": {
+    "etdLcl": "",
+    "tentativeEtdLcl": "",
+    "tentativeEtdCd": "",
+    "atdLcl": "",
+    "actToLcl": "",
+    "depDlyInfo": [
+      {
+        "depDlyTime": 130,
+        "depDlyTimeRsnCd": ""
+      }
+    ],
+    "lstDepApoCd": "HND",
+    "lstDepApoTimeDiffUtc": 900,
+    "stdLcl": "2023-03-29T01:59:59",
+    "firstAtdLcl": "",
+    "returnInLcl": "",
+    "estReturnInLcl": "",
+    "depApoSpotNo": "148",
+    "rtrOccurCnt": 1
+  },
+  "arrInfo": {
+    "etaLcl": "",
+    "tentativeEtaLcl": "",
+    "tentativeEtaCd": "",
+    "estBiLcl": "",
+    "tentativeEstLdLcl": "",
+    "tentativeEstLdCd": "",
+    "estLdLcl": "",
+    "actLdLcl": "",
+    "ataLcl": "",
+    "lstArrApoCd": "KOJ",
+    "lstArrApoTimeDiffUtc": 900,
+    "staLcl": "2023-03-29T01:59:59",
+    "arrApoSpotNo": "5L"
+  }
+}

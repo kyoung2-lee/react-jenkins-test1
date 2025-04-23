@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #222;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="Icon_InFLT" transform="translate(-127 -358.569)">
+    <g id="グループ化_8460" data-name="グループ化 8460">
+      <path id="パス_1454" data-name="パス 1454" class="cls-1" d="M17.223,9.071H3.966L3.273,7.1a.831.831,0,0,0-.78-.6H.5l.78,4.457a.842.842,0,0,0,.866.686H8.385L6.652,19.357h2.6l4.332-7.714h6.325a.62.62,0,0,0,.433-1.029l-.52-.514A3.844,3.844,0,0,0,17.223,9.071Z" transform="translate(128.5 360.212)"/>
+      <path id="パス_1455" data-name="パス 1455" class="cls-2" d="M9.233,8.214,7.5.5H9.58a.912.912,0,0,1,.78.429l4.072,7.286Z" transform="translate(127.565 361.069)"/>
+    </g>
+    <rect id="長方形_5135" data-name="長方形 5135" class="cls-3" width="24" height="24" transform="translate(127 358.569)"/>
+  </g>
+</svg>

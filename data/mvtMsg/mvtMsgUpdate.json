@@ -1,0 +1,3 @@
+{
+  "conditions": ["tty_not_sent"]
+}

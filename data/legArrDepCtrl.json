@@ -1,0 +1,56 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10100WE",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2018-11-30T01:28:08",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "arr": {
+    "orgDateLcl": "2019-04-10T00:00:00",
+    "alCd": "JL",
+    "fltNo": "1111",
+    "casFltNo": "",
+    "skdDepApoCd": "SIN",
+    "skdArrApoCd": "HND",
+    "skdLegSno": 1,
+    "lstDepApoCd": "SIN",
+    "lstArrApoCd": "HND",
+    "csFlg": false,
+    "spotNo": "5R",
+    "shipNo": "JA350J",
+    "shipTypeIataCd": "111",
+    "staLcl": "2019-04-10T01:00:00",
+    "etaLcl": null,
+    "ataLcl": null,
+    "estLdLcl": null,
+    "actLdLcl": null,
+    "tentativeEtaLcl": null,
+    "tentativeEstLdLcl": null
+  },
+  "dep": {
+    "orgDateLcl": "2019-04-10T00:00:00",
+    "alCd": "AN",
+    "fltNo": "2222",
+    "casFltNo": "OAL4567",
+    "skdDepApoCd": "HND",
+    "skdArrApoCd": "SIN",
+    "skdLegSno": 2,
+    "lstDepApoCd": "HND",
+    "lstArrApoCd": "SIN",
+    "csFlg": false,
+    "spotNo": "102",
+    "shipNo": "AA905W",
+    "shipTypeIataCd": "221",
+    "stdLcl": "2019-04-10T04:00:00",
+    "etdLcl": null,
+    "atdLcl": null,
+    "tentativeEtdLcl": null
+  }
+}

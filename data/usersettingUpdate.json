@@ -1,0 +1,70 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10100W6",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2018-10-03T10:36:53",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "grpNtfFlg": true,
+  "apoNtfFlg": true,
+  "apoNtfList": [
+    {
+      "apoCode": "HND",
+      "eventCode": "SAL.NTF.APO.IRR.ALL",
+      "apoNtfOrder": 101
+    },
+    {
+      "apoCode": "NRT",
+      "eventCode": "SAL.NTF.SEC",
+      "apoNtfOrder": 102
+    },
+    {
+      "apoCode": "NRT",
+      "eventCode": "SAL.NTF.TSW",
+      "apoNtfOrder": 104
+    }
+  ],
+  "fltNtfFlg": true,
+  "fltNtfList": [
+    {
+      "type": "LEG",
+      "trigger": "HND-OKA",
+      "eventCode": "SAL.NTF.ARR.RMK",
+      "fltNtfOrder": 1
+    },
+    {
+      "type": "FLT",
+      "trigger": "JL0001",
+      "eventCode": "SAL.NTF.FCN",
+      "fltNtfOrder": 2
+    },
+    {
+      "type": "FLT",
+      "trigger": "JL0002",
+      "eventCode": "SAL.NTF.RTC",
+      "fltNtfOrder": 3
+    },
+    {
+      "type": "FLT",
+      "trigger": "JL0003",
+      "eventCode": "SAL.NTF.FLT.FLT.NEW",
+      "fltNtfOrder": 4
+    },
+    {
+      "type": "CAS",
+      "trigger": "AAAAAAAAAA",
+      "eventCode": "SAL.NTF.FLT.FLT.NEW",
+      "fltNtfOrder": 5
+    }
+  ],
+  "bbNtfFlg": true,
+  "cmtNtfFlg": true,
+  "myskdlNtfFlg": true
+}

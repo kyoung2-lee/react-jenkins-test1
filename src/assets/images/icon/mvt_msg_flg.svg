@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-発信済フラグ">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="発信済フラグ" clip-path="url(#clip-発信済フラグ)">
+    <g id="Sent">
+      <rect id="長方形_13907" data-name="長方形 13907" width="24" height="24" rx="4" fill="#e6b422"/>
+      <path id="パス_3579" data-name="パス 3579" d="M11.727-38.7l-.944,5.951,4.81-3.672,1.8,2.993-5.808,2.245,5.808,2.21-1.8,3.028-4.81-3.741.944,5.986H8.04L9-29.648,4.21-25.976,2.393-28.969,8.2-31.214l-5.808-2.21L4.21-36.417,9-32.745,8.04-38.7Z" transform="translate(2.107 43.196)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

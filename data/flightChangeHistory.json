@@ -1,0 +1,97 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S10502W3",
+    "messageReference": {
+      "creatorReference": {
+        "creationTime": "2019-12-05T09:00:00",
+        "receiverSystem": null,
+        "senderSystem": null
+      }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0"
+  },
+  "flight": {
+    "orgDateLcl": "2019-07-17",
+    "alCd": "JL",
+    "fltNo": "0651",
+    "casFltNo": "",
+    "lstDepApoCd": "HND",
+    "lstArrApoCd": "KOJ",
+    "csFlg": false
+  },
+  "history": [
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "FlightSTS",
+      "changeValueBef": null,
+      "changeValueAfr": "OPEN"
+    },
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "FlightSTS",
+      "changeValueBef": null,
+      "changeValueAfr": "OPEN<DLMT>DUE TO A/C ROTATION"
+    },
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "CONF Change",
+      "changeValueBef": "V34",
+      "changeValueAfr": "V40<DLMT>DUE TO PAX DEMAND"
+    },
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "FlightSTS",
+      "changeValueBef": "CHTR",
+      "changeValueAfr": "<DLMT>DUE TO A/C ROTATION"
+    },
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "FlightSTS",
+      "changeValueBef": "",
+      "changeValueAfr": "<DLMT>DUE TO A/C ROTATION"
+    },
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "FlightSTS",
+      "changeValueBef": "",
+      "changeValueAfr": ""
+    },
+    {
+      "changeTime": "2018-01-31T08:12:00:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "FlightSTS",
+      "changeValueBef": "",
+      "changeValueAfr": "OPEN"
+    },
+    {
+      "changeTime": "2018-01-30T14:59:09:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "STD",
+      "changeValueBef": "311010L",
+      "changeValueAfr": "311015L"
+    },
+    {
+      "changeTime": "2018-01-30T14:59:02:000000",
+      "changeBy": "27601922",
+      "changeItemDispName": "STA",
+      "changeValueBef": "311140L",
+      "changeValueAfr": "311145L"
+    },
+    {
+      "changeTime": "2018-01-30T02:22:32:000000",
+      "changeBy": "STELA",
+      "changeItemDispName": "New Flight",
+      "changeValueBef": "-",
+      "changeValueAfr": "JL273/31JAN"
+    }
+  ],
+  "connectDbCat": "O"
+}

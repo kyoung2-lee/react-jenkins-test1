@@ -1,0 +1,33 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ServerConfig = void 0;
+var ServerConfig;
+(function (ServerConfig) {
+    ServerConfig.API_SERVER_PRIORITY = "http://localhost:3000";
+    ServerConfig.API_SERVER_COMMON = "http://localhost:3000";
+    ServerConfig.USER_LOGIN_URL = "http://localhost:3333/login";
+    ServerConfig.MYPAGE_URL = "http://localhost:3333/content/mypage";
+    ServerConfig.HELP_URL = "http://localhost:3333/content/help";
+    ServerConfig.BASE_ROUTE = "/spa";
+    ServerConfig.MQTT_PUBSUB_VERSION = "V3";
+    ServerConfig.MQTT_KEEP_ALIVE = 30;
+    ServerConfig.MQTT_SESSION_EXPIRY = 90;
+    ServerConfig.BUFFER_INTERVAL = 10;
+    ServerConfig.AWS_REGION = "ap-northeast-1";
+    ServerConfig.COGNITO_APP_CLIENT_ID = "5s4fimnru8dfnohq34ro6tou52";
+    ServerConfig.COGNITO_EXTERNAL_USER_POOL_ID = "ap-northeast-1_cFWwa4QhL";
+    ServerConfig.COGNITO_INTERNAL_USER_LOGIN_REDIRECT_PATH = "/spa/cognito_redirect";
+    ServerConfig.COGNITO_INTERNAL_USER_LOGIN_REDIRECT_PATH_IOS = "/spa/cognito_redirect";
+    ServerConfig.COGNITO_INTERNAL_USER_LOGOUT_REDIRECT_PATH = "";
+    ServerConfig.COGNITO_INTERNAL_USER_LOGOUT_REDIRECT_PATH_IOS = "";
+    ServerConfig.COGNITO_INTERNAL_USER_LOGOUT_ENDPOINT = "https://soala-poc-user-pool.auth.ap-northeast-1.amazoncognito.com/logout";
+    ServerConfig.COGNITO_INTERNAL_USER_LOGIN_ENDPOINT = "https://soala-poc-user-pool.auth.ap-northeast-1.amazoncognito.com/oauth2/authorize";
+    ServerConfig.COGNITO_INTERNAL_USER_TOKEN_ENDPOINT = "https://soala-poc-user-pool.auth.ap-northeast-1.amazoncognito.com/oauth2/token";
+    ServerConfig.COGNITO_INTERNAL_USER_IDP = "soala-poc-cognito-id-provider";
+    ServerConfig.COGNITO_IDENTITY_POOL_ID = "ap-northeast-1:b04778ff-5604-4a8d-94c1-b957ac5e5a5d";
+    ServerConfig.API_ENDPOINT_POLICY_ATTACH = "https://yapl7txv76.execute-api.ap-northeast-1.amazonaws.com/soalapoc/iot-attach-policy-py";
+    ServerConfig.IOT_ENDPOINT = "a3hxsj7sht1zh5-ats.iot.ap-northeast-1.amazonaws.com";
+    ServerConfig.IOT_CLIENT_ID_PREFIX = "soala-poc-test";
+})(ServerConfig = exports.ServerConfig || (exports.ServerConfig = {}));
+;
+//# sourceMappingURL=config.js.map

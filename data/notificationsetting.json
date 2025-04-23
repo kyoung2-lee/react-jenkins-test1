@@ -1,0 +1,33 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10100W3",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2018-10-31T10:36:53",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+	},
+	"notifyList": [
+		{
+			"key": "APO",
+			"value": "HND/SAL.NTF.APO.IRR.ALL"
+		},
+		{
+			"key": "APO",
+			"value": "ITM/SWW"
+		},
+		{
+			"key": "FLT",
+			"value": "JL0101/SAL.NTF.FLT.DIV"
+		},
+		{
+			"key": "LEG",
+			"value": "HND-ITM/SAL.NTF.FLT.DIV"
+		}
+	]
+}

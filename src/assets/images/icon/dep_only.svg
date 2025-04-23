@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="20" viewBox="0 0 56 20">
+  <g id="グループ_13889" data-name="グループ 13889" transform="translate(-208 -208)">
+    <g id="グループ_13879" data-name="グループ 13879" transform="translate(80)">
+      <path id="パス_3543" data-name="パス 3543" d="M28,0H60L52,20H28Z" transform="translate(124 208)" fill="#346181"/>
+      <text id="DEP" transform="translate(155 222)" fill="#fff" font-size="10" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">DEP</tspan></text>
+      <path id="パス_3545" data-name="パス 3545" d="M-4,0H20V20H4Z" transform="translate(132 208)" fill="#8ea6b7"/>
+    </g>
+  </g>
+</svg>

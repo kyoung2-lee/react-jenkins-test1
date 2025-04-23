@@ -1,0 +1,12 @@
+{
+  "errors": [
+
+    {
+      "errorLog": null,
+      "rowNo": 1,
+      "rowStatus": "Error",
+      "errorItems" : ["paxCgoCat", "skdlNonskdlCat", "svcTypeDiaCd"],
+      "errorMessages": ["Wrong Combination", "TEST"]
+    }
+  ]
+}

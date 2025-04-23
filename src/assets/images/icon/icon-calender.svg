@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Icon_Calender">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Calender" clip-path="url(#clip-Icon_Calender)">
+    <g id="Icon_カレンダー_24px">
+      <rect id="長方形_6462" data-name="長方形 6462" width="24" height="24" fill="none"/>
+      <g id="グループ_10722" data-name="グループ 10722" transform="translate(-603 -273)">
+        <g id="長方形_6443" data-name="長方形 6443" transform="translate(604 275)" fill="none" stroke="#346181" stroke-width="1.5">
+          <rect width="21.5" height="21" stroke="none"/>
+          <rect x="0.75" y="0.75" width="20" height="19.5" fill="none"/>
+        </g>
+        <g id="長方形_6444" data-name="長方形 6444" transform="translate(608 274)" fill="none" stroke="#346181" stroke-width="1">
+          <rect width="1.5" height="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="0.5" height="3" fill="none"/>
+        </g>
+        <g id="長方形_6445" data-name="長方形 6445" transform="translate(620 274)" fill="none" stroke="#346181" stroke-width="1">
+          <rect width="1.5" height="4" stroke="none"/>
+          <rect x="0.5" y="0.5" width="0.5" height="3" fill="none"/>
+        </g>
+        <g id="長方形_6446" data-name="長方形 6446" transform="translate(604 279)" fill="none" stroke="#346181" stroke-width="1">
+          <rect width="21.5" height="1.5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="20.5" height="0.5" fill="none"/>
+        </g>
+        <g id="グループ_10718" data-name="グループ 10718" transform="translate(-2 -0.5)">
+          <g id="長方形_6449" data-name="長方形 6449" transform="translate(610 292)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6450" data-name="長方形 6450" transform="translate(610 286)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6465" data-name="長方形 6465" transform="translate(610 289)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+        </g>
+        <g id="グループ_10719" data-name="グループ 10719" transform="translate(2 -0.5)">
+          <g id="長方形_6449-2" data-name="長方形 6449" transform="translate(610 292)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6450-2" data-name="長方形 6450" transform="translate(610 286)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6464" data-name="長方形 6464" transform="translate(610 283)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6465-2" data-name="長方形 6465" transform="translate(610 289)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+        </g>
+        <g id="グループ_10720" data-name="グループ 10720" transform="translate(6 -0.5)">
+          <g id="長方形_6449-3" data-name="長方形 6449" transform="translate(610 292)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6450-3" data-name="長方形 6450" transform="translate(610 286)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6464-2" data-name="長方形 6464" transform="translate(610 283)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6465-3" data-name="長方形 6465" transform="translate(610 289)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+        </g>
+        <g id="グループ_10721" data-name="グループ 10721" transform="translate(10 -0.5)">
+          <g id="長方形_6450-4" data-name="長方形 6450" transform="translate(610 286)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6464-3" data-name="長方形 6464" transform="translate(610 283)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+          <g id="長方形_6465-4" data-name="長方形 6465" transform="translate(610 289)" fill="none" stroke="#346181" stroke-width="1">
+            <rect width="1.5" height="1.5" stroke="none"/>
+            <rect x="0.5" y="0.5" width="0.5" height="0.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

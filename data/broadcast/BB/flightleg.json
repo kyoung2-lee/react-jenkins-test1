@@ -1,0 +1,53 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11102W7",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "flightLegList": [
+    {
+      "legInfoCd": "JAL",
+      "orgDateLcl": "2019-09-26T02:26:44.447Z",
+      "alCd": "JL",
+      "fltNo": "651",
+      "casFltNo": "",
+      "skdDepApoCd": "XXX",
+      "skdArrApoCd": "YYY",
+      "skdLegSno": 1,
+      "lstDepApoCd": "SIN",
+      "lstArrApoCd": "HND"
+    },
+    {
+      "legInfoCd": "OAL",
+      "orgDateLcl": "2019-09-27T02:26:44.447Z",
+      "alCd": "",
+      "fltNo": "",
+      "casFltNo": "OAL3456",
+      "skdDepApoCd": "XXX",
+      "skdArrApoCd": "YYY",
+      "skdLegSno": 2,
+      "lstDepApoCd": "FUK",
+      "lstArrApoCd": "HND"
+    },
+    {
+      "legInfoCd": "OAL",
+      "orgDateLcl": "2019-09-27T02:26:44.447Z",
+      "alCd": "",
+      "fltNo": "",
+      "casFltNo": "OAL4567",
+      "skdDepApoCd": "XXX",
+      "skdArrApoCd": "YYY",
+      "skdLegSno": 3,
+      "lstDepApoCd": "NGS",
+      "lstArrApoCd": "NRT"
+    }
+  ]
+}

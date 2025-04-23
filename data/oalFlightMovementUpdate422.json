@@ -1,0 +1,12 @@
+{
+  "errors": [
+    {
+      "errorItems" : ["atdLcl", "actToLcl"],
+      "errorMessages": ["Wrong Combination with atdLcl"]
+    },
+    {
+      "errorItems" : ["tentativeEtdLcl"],
+      "errorMessages": ["Wrong with tentativeEtdLcl"]
+    }
+  ]
+}

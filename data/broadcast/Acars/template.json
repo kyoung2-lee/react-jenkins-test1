@@ -1,0 +1,23 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11105W4",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "templateId": 10,
+  "shipNoList": [
+    "JA007D",
+    "JA008D",
+    "JA009D"
+  ],
+  "uplinkText": "APT INFO RJTT AT 1001252\nT/O RWY 16R\n                16L\nL/D  RWY 34L\n\nRWY 16R/34L COND   AT 070130Z\n30Z\n30Z\n30Z\n30Z\n30Z",
+  "reqAckFlg": true
+}

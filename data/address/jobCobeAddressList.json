@@ -1,0 +1,393 @@
+{
+	"commonHeader": {
+		"interfaceIdentifier": "S10100W9",
+		"messageReference": {
+			"creatorReference": {
+				"creationTime": "2019-02-04T03:08:56.8467603Z",
+				"receiverSystem": null,
+				"senderSystem": null
+			}
+		},
+		"messageFormatVersion": "01.01.01",
+		"dataCount": 1,
+		"apiVersion": "1.0"
+	},
+	"jobList": [
+    {
+      "jobId": 1,
+      "jobCd": "BBBCODE"
+    },
+    {
+      "jobId": 2,
+      "jobCd": "AAACODE"
+    },
+    {
+      "jobId": 3,
+      "jobCd": "BOSWAJL"
+    },
+    {
+      "jobId": 4,
+      "jobCd": "DELWCJL"
+    },
+    {
+      "jobId": 5,
+      "jobCd": "FRAQDLH"
+    },
+    {
+      "jobId": 6,
+      "jobCd": "HDQBOTG"
+    },
+    {
+      "jobId": 7,
+      "jobCd": "HELTTAY"
+    },
+    {
+      "jobId": 8,
+      "jobCd": "HNDFDJL"
+    },
+    {
+      "jobId": 9,
+      "jobCd": "HNDHHJL"
+    },
+    {
+      "jobId": 10,
+      "jobCd": "HNDHSJL"
+    },
+    {
+      "jobId": 11,
+      "jobCd": "HNDKDJL"
+    },
+    {
+      "jobId": 12,
+      "jobCd": "HNDKIJL"
+    },
+    {
+      "jobId": 13,
+      "jobCd": "HNDKLJL"
+    },
+    {
+      "jobId": 14,
+      "jobCd": "HNDMHJL"
+    },
+    {
+      "jobId": 15,
+      "jobCd": "HNDMMJL"
+    },
+    {
+      "jobId": 16,
+      "jobCd": "HNDOOJL"
+    },
+    {
+      "jobId": 17,
+      "jobCd": "HNDZHJL"
+    },
+    {
+      "jobId": 18,
+      "jobCd": "KHHLDCI"
+    },
+    {
+      "jobId": 19,
+      "jobCd": "KMQWAJL"
+    },
+    {
+      "jobId": 20,
+      "jobCd": "LHRKNJL"
+    },
+    {
+      "jobId": 21,
+      "jobCd": "MEXDSAM"
+    },
+    {
+      "jobId": 22,
+      "jobCd": "NGOKPTG"
+    },
+    {
+      "jobId": 23,
+      "jobCd": "NRTKIJL"
+    },
+    {
+      "jobId": 24,
+      "jobCd": "OKAOOJL"
+    },
+    {
+      "jobId": 25,
+      "jobCd": "PARWCJL"
+    },
+    {
+      "jobId": 26,
+      "jobCd": "SDJWAJL"
+    },
+    {
+      "jobId": 27,
+      "jobCd": "SGNSZJL"
+    },
+    {
+      "jobId": 28,
+      "jobCd": "SOALA01"
+    },
+    {
+      "jobId": 29,
+      "jobCd": "SOALA02"
+    },
+    {
+      "jobId": 30,
+      "jobCd": "SOALA03"
+    },
+    {
+      "jobId": 31,
+      "jobCd": "SOALA04"
+    },
+    {
+      "jobId": 32,
+      "jobCd": "SOALA05"
+    },
+    {
+      "jobId": 33,
+      "jobCd": "SOALA06"
+    },
+    {
+      "jobId": 34,
+      "jobCd": "SOALA07"
+    },
+    {
+      "jobId": 35,
+      "jobCd": "SOALA08"
+    },
+    {
+      "jobId": 36,
+      "jobCd": "SOALA09"
+    },
+    {
+      "jobId": 37,
+      "jobCd": "SOALA10"
+    },
+    {
+      "jobId": 38,
+      "jobCd": "SOALA11"
+    },
+    {
+      "jobId": 39,
+      "jobCd": "SOALA12"
+    },
+    {
+      "jobId": 40,
+      "jobCd": "SOALA13"
+    },
+    {
+      "jobId": 41,
+      "jobCd": "SOALA14"
+    },
+    {
+      "jobId": 42,
+      "jobCd": "SOALA15"
+    },
+    {
+      "jobId": 43,
+      "jobCd": "SOALA16"
+    },
+    {
+      "jobId": 44,
+      "jobCd": "SOALA17"
+    },
+    {
+      "jobId": 45,
+      "jobCd": "SOALA18"
+    },
+    {
+      "jobId": 46,
+      "jobCd": "SOALA19"
+    },
+    {
+      "jobId": 47,
+      "jobCd": "SOALA20"
+    },
+    {
+      "jobId": 48,
+      "jobCd": "SOALA21"
+    },
+    {
+      "jobId": 49,
+      "jobCd": "SOALA22"
+    },
+    {
+      "jobId": 50,
+      "jobCd": "SOALA23"
+    },
+    {
+      "jobId": 51,
+      "jobCd": "SOALA24"
+    },
+    {
+      "jobId": 52,
+      "jobCd": "SOALA25"
+    },
+    {
+      "jobId": 53,
+      "jobCd": "SOALA26"
+    },
+    {
+      "jobId": 54,
+      "jobCd": "SOALA27"
+    },
+    {
+      "jobId": 55,
+      "jobCd": "SOALA28"
+    },
+    {
+      "jobId": 56,
+      "jobCd": "SOALA29"
+    },
+    {
+      "jobId": 57,
+      "jobCd": "SOALA30"
+    },
+    {
+      "jobId": 58,
+      "jobCd": "SOALA31"
+    },
+    {
+      "jobId": 59,
+      "jobCd": "SOALA32"
+    },
+    {
+      "jobId": 60,
+      "jobCd": "SOALA33"
+    },
+    {
+      "jobId": 61,
+      "jobCd": "SOALA34"
+    },
+    {
+      "jobId": 62,
+      "jobCd": "SOALA35"
+    },
+    {
+      "jobId": 63,
+      "jobCd": "SOALA36"
+    },
+    {
+      "jobId": 64,
+      "jobCd": "SOALA37"
+    },
+    {
+      "jobId": 65,
+      "jobCd": "SOALA38"
+    },
+    {
+      "jobId": 66,
+      "jobCd": "SOALA39"
+    },
+    {
+      "jobId": 67,
+      "jobCd": "SOALA40"
+    },
+    {
+      "jobId": 68,
+      "jobCd": "SOALA41"
+    },
+    {
+      "jobId": 69,
+      "jobCd": "SOALA42"
+    },
+    {
+      "jobId": 70,
+      "jobCd": "SOALA43"
+    },
+    {
+      "jobId": 71,
+      "jobCd": "SOALA44"
+    },
+    {
+      "jobId": 72,
+      "jobCd": "SOALA45"
+    },
+    {
+      "jobId": 73,
+      "jobCd": "SOALA46"
+    },
+    {
+      "jobId": 74,
+      "jobCd": "SOALA47"
+    },
+    {
+      "jobId": 75,
+      "jobCd": "SOALA48"
+    },
+    {
+      "jobId": 76,
+      "jobCd": "SOALA49"
+    },
+    {
+      "jobId": 77,
+      "jobCd": "SOALA50"
+    },
+    {
+      "jobId": 78,
+      "jobCd": "SOALA51"
+    },
+    {
+      "jobId": 79,
+      "jobCd": "SPKKGKE"
+    },
+    {
+      "jobId": 80,
+      "jobCd": "TLSWXAF"
+    },
+    {
+      "jobId": 81,
+      "jobCd": "TYOCOJL"
+    },
+    {
+      "jobId": 82,
+      "jobCd": "TYOHFJL"
+    },
+    {
+      "jobId": 83,
+      "jobCd": "TYOJKJL"
+    },
+    {
+      "jobId": 84,
+      "jobCd": "TYOKLJL"
+    },
+    {
+      "jobId": 85,
+      "jobCd": "TYOMDJL"
+    },
+    {
+      "jobId": 86,
+      "jobCd": "TYOMNJL"
+    },
+    {
+      "jobId": 87,
+      "jobCd": "TYOMTJL"
+    },
+    {
+      "jobId": 88,
+      "jobCd": "TYOMUJL"
+    },
+    {
+      "jobId": 89,
+      "jobCd": "TYONXJL"
+    },
+    {
+      "jobId": 90,
+      "jobCd": "TYOODJL"
+    },
+    {
+      "jobId": 91,
+      "jobCd": "TYOOJJL"
+    },
+    {
+      "jobId": 92,
+      "jobCd": "TYORQJL"
+    },
+    {
+      "jobId": 93,
+      "jobCd": "TYOUCJL"
+    },
+    {
+      "jobId": 94,
+      "jobCd": "TYOVDJL"
+    }
+	]
+}

@@ -1,0 +1,48 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11102W4",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "templateId": 11,
+  "catCdList": [
+    "PUBLIC",
+    "FLIGHT"
+  ],
+  "legInfoCd": "JAL",
+  "orgDateLcl": "2021-06-10T02:26:44.447Z",
+  "alCd": "AN",
+  "fltNo": "567",
+  "casFltNo": "",
+  "freeFltSno": "",
+  "skdDepApoCd": "HND",
+  "skdArrApoCd": "KOJ",
+  "skdLegSno": 1,
+  "lstDepApoCd": "HND",
+  "lstArrApoCd": "NRT",
+  "commGrpIdList": [
+    1,
+    2,
+    3
+  ],
+  "jobGrpIdList": [
+    1,
+    2,
+    3
+  ],
+  "jobIdList": [
+    1,
+    2,
+    3
+  ],
+  "bbTitle": "001ITM運用制限時間超過の可能性あり",
+  "bbText": "001IOCより、先行便が天候不良により遅延発生しており、玉突きで当便のETAがITM運用制限に掛かる可能性ありとの一報がありました。続報は追って連絡します。"
+}

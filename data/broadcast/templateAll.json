@@ -1,0 +1,113 @@
+{
+  "commonHeader": {
+    "interfaceIdentifier": "S11100W1",
+    "messageReference": {
+        "creatorReference": {
+            "creationTime": "2021-11-08T00:38:53.9769398Z",
+            "receiverSystem": null,
+            "senderSystem": null
+        }
+    },
+    "messageFormatVersion": "01.01.01",
+    "dataCount": 1,
+    "apiVersion": "1.0" 
+  },
+  "templateList": [
+    {
+      "templateId": 2,
+      "templateName": "002空港施設XX関連",
+      "broadcastType": "MAIL",
+      "recentlyTime": "2019-09-21T01:43:05.576Z"
+    },
+    {
+      "templateId": 1,
+      "templateName": "001宇空港施設XX関連",
+      "broadcastType": "BB",
+      "recentlyTime": "2019-09-20T01:43:05.575Z"
+    },
+    {
+      "templateId": 3,
+      "templateName": "001井空港施設XX関連",
+      "broadcastType": "ACARS",
+      "recentlyTime": "2019-09-22T01:43:05.577Z"
+    },
+    {
+      "templateId": 4,
+      "templateName": "001亜空港施設XX関連",
+      "broadcastType": "NTF",
+      "recentlyTime": "2019-09-23T01:43:05.578Z"
+    },
+    {
+      "templateId": 5,
+      "templateName": "001刑事版空港施設XXXXXXXXXXXXXXXXXXXXXXXXXXXX関連",
+      "broadcastType": "TTY",
+      "recentlyTime": "2019-09-24T01:43:05.579Z"
+    },
+    {
+      "templateId": 6,
+      "templateName": "006空港施設XX関連",
+      "broadcastType": "BB",
+      "recentlyTime": "2019-09-20T01:43:05.580Z"
+    },
+    {
+      "templateId": 7,
+      "templateName": "007空港施設XX関連",
+      "broadcastType": "MAIL",
+      "recentlyTime": "2019-09-21T01:43:05.581Z"
+    },
+    {
+      "templateId": 8,
+      "templateName": "008空港施設XX関連",
+      "broadcastType": "ACARS",
+      "recentlyTime": "2019-09-22T01:43:05.582Z"
+    },
+    {
+      "templateId": 9,
+      "templateName": "009空港施設XX関連",
+      "broadcastType": "NTF",
+      "recentlyTime": "2019-09-23T01:43:05.583Z"
+    },
+    {
+      "templateId": 10,
+      "templateName": "010空港施設XXXXXXXXXXXXXXXXXXXXXXXXXXXX関連",
+      "broadcastType": "TTY",
+      "recentlyTime": "2019-09-24T01:43:05.584Z"
+    },
+    {
+      "templateId": 11,
+      "templateName": "011空港施設XX関連",
+      "broadcastType": "BB",
+      "recentlyTime": "2019-09-20T01:43:05.585Z"
+    },
+    {
+      "templateId": 12,
+      "templateName": "012空港施設XX関連",
+      "broadcastType": "MAIL",
+      "recentlyTime": "2019-09-21T01:43:05.586Z"
+    },
+    {
+      "templateId": 13,
+      "templateName": "013空港施設XX関連",
+      "broadcastType": "ACARS",
+      "recentlyTime": "2019-09-22T01:43:05.587Z"
+    },
+    {
+      "templateId": 14,
+      "templateName": "014空港施設XX関連",
+      "broadcastType": "NTF",
+      "recentlyTime": "2019-09-23T01:43:05.588Z"
+    },
+    {
+      "templateId": 15,
+      "templateName": "015空港施設XXXXXXXXXXXXXXXXXXXXXXXXXXXX関連",
+      "broadcastType": "TTY",
+      "recentlyTime": "2019-09-24T01:43:05.589Z"
+    },
+    {
+      "templateId": 16,
+      "templateName": "016空港施設ABCDX関連",
+      "broadcastType": "AFTN",
+      "recentlyTime": "2021-06-03T01:43:05.589Z"
+    }
+  ]
+}
