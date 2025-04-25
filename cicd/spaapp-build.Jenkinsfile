@@ -6,52 +6,52 @@ pipeline {
     }
 
     parameters {
-        choice (name: 'Target', choices: 'BuildOnly\nBuild-Deploy', description: 'Job‚Ìƒ^[ƒQƒbƒg‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢.')
-        choice (name: 'Environment', choices: 'ITa\nITb1\nITb2\nITb3\nITb4', description: '‘ÎÛ‚ÌŠÂ‹«‚ğ‘I‘ğ‚µ‚Ä‚­‚¾‚³‚¢.')
-        choice (name: 'Version', choices: 'v1\nv1.5\nv2\nv3', description: 'Version‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢.')
+        choice (name: 'Target', choices: 'BuildOnly\nBuild-Deploy', description: 'Jobï¿½Ìƒ^ï¿½[ï¿½Qï¿½bï¿½gï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.')
+        choice (name: 'Environment', choices: 'ITa\nITb1\nITb2\nITb3\nITb4', description: 'ï¿½ÎÛ‚ÌŠÂ‹ï¿½ï¿½ï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.')
+        choice (name: 'Version', choices: 'v1\nv1.5\nv2\nv3', description: 'Versionï¿½ï¿½ï¿½wï¿½è‚µï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.')
     }
 
     environment {
         /* Git Credentials */
         CREDENTIAL_ID = 'apl_usr'
-        SOURCE_GIT_URL = 'ssh://soala_apl_01@SOALADC11T:22/D/Git/repos/SoalaSource.git'
+        SOURCE_GIT_URL = 'git@github.com:kyoung2-lee/test-jenkins2.git'
         MODULE_GIT_URL = 'ssh://soala_apl_01@SOALADC11T:22/D/Git/repos/SoalaModule.git'
 
-        /* ƒJƒXƒ^ƒ€ƒ[ƒNƒXƒy[ƒXƒpƒX */
+        /* ï¿½Jï¿½Xï¿½^ï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½Nï¿½Xï¿½yï¿½[ï¿½Xï¿½pï¿½X */
         CUSTOM_DIR_SORUCE = 'D:\\Program Files\\Jenkins\\workspace\\SoalaSource.git'
         CUSTOM_DIR_MODULE = 'D:\\Program Files\\Jenkins\\workspace\\SoalaModule.git'
 
-        /* spa AppƒtƒHƒ‹ƒ_ */
+        /* spa Appï¿½tï¿½Hï¿½ï¿½ï¿½_ */
         SPA_DIR = 'spa'
         
-        /* ConfigControlƒtƒHƒ‹ƒ_Path */
+        /* ConfigControlï¿½tï¿½Hï¿½ï¿½ï¿½_Path */
         CONFIG_DIR = 'config'
 
-        /* Configƒtƒ@ƒCƒ‹ Prefix */
+        /* Configï¿½tï¿½@ï¿½Cï¿½ï¿½ Prefix */
         CONF_FILE_PREFIX = 'config_jit_'
 
-        /* Configƒtƒ@ƒCƒ‹ Extension */
+        /* Configï¿½tï¿½@ï¿½Cï¿½ï¿½ Extension */
         CONF_FILE_DMZ_TS = '.ts'
         CONF_FILE_CLAN_TS = '_clan.ts'
 
-        /* Base Configƒtƒ@ƒCƒ‹ */
+        /* Base Configï¿½tï¿½@ï¿½Cï¿½ï¿½ */
         BASE_CONFIG = 'config.ts'
 
-        /* BuildŒã¬‰Ê•¨ƒtƒHƒ‹ƒ_–¼ */
+        /* Buildï¿½ã¬ï¿½Ê•ï¿½ï¿½tï¿½Hï¿½ï¿½ï¿½_ï¿½ï¿½ */
         BUILD_RESULT_DMZ = 'Spa.dmz'
         BUILD_RESULT_CLAN = 'Spa.clan'
 
-        /* Deploy—pÚ‘±î•ñ */
+        /* Deployï¿½pï¿½Ú‘ï¿½ï¿½ï¿½ï¿½ */
         USER_NAME = 'soala_apl_01'
         PASS = 'Passwordsw23ed'
 
         /* Web.config */
         WEB_CONFIG_FILE = 'web.config'
 
-        /* ResouceLockƒtƒ@ƒCƒ‹ */
+        /* ResouceLockï¿½tï¿½@ï¿½Cï¿½ï¿½ */
         LOCKABLE_RESOURCE = 'D:\\Work\\Resource\\Concurrency-Lockable-git-Resource.dat'
 
-        /* “Ç‚İ‚İShell */
+        /* ï¿½Ç‚İï¿½ï¿½ï¿½Shell */
         SHELL_GET_API_WEBFOLDER = 'D:\\Soala_Apl\\Tool\\Jenkins\\get-apispa-webfolder.ps1'
         SHELL_GET_BRIDGE_WEBFOLDER = 'D:\\Soala_Apl\\Tool\\Jenkins\\get-bridgespa-webfolder.ps1'
     }
@@ -86,7 +86,7 @@ pipeline {
                                      userRemoteConfigs: [[credentialsId: env.CREDENTIAL_ID, url: env.MODULE_GIT_URL]]])
                         }
                         stage("Build") {
-                            /* Buildˆ—‚ÆRenameˆ—‚Í“¯ˆê‚ÌBat‚Ì’†‚Å‚Í‚Å‚«‚Ü‚¹‚ñB */
+                            /* Buildï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Renameï¿½ï¿½ï¿½ï¿½ï¿½Í“ï¿½ï¿½ï¿½ï¿½Batï¿½Ì’ï¿½ï¿½Å‚Í‚Å‚ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B */
                             bat '''
                                 @echo off
                                 SET AttachConfName=%CONF_FILE_PREFIX%%Environment%%CONF_FILE_DMZ_TS%
@@ -118,17 +118,17 @@ pipeline {
                                     . $env:SHELL_GET_API_WEBFOLDER
                                     . $env:SHELL_GET_BRIDGE_WEBFOLDER
                                     
-                                    ### Build¬‰Ê•¨‚ª‘¶İ‚·‚éƒtƒHƒ‹ƒ_ƒpƒX¶¬
+                                    ### Buildï¿½ï¿½ï¿½Ê•ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½İ‚ï¿½ï¿½ï¿½tï¿½Hï¿½ï¿½ï¿½_ï¿½pï¿½Xï¿½ï¿½ï¿½ï¿½
                                     $DmzResultPath = Join-Path $env:CUSTOM_DIR_SORUCE $env:SPA_DIR | Join-Path -ChildPath $env:BUILD_RESULT_DMZ
                                     $ClanResultPath = Join-Path $env:CUSTOM_DIR_SORUCE $env:SPA_DIR | Join-Path -ChildPath $env:BUILD_RESULT_CLAN
 
-                                    ### web.config ƒpƒX‚ğ¶¬
+                                    ### web.config ï¿½pï¿½Xï¿½ğ¶ï¿½
                                     $WebConfPath = Join-Path $env:CUSTOM_DIR_SORUCE $env:SPA_DIR | Join-Path -ChildPath $env:WEB_CONFIG_FILE
 
                                     Copy-Item $WebConfPath -destination $DmzResultPath -ErrorAction Stop
                                     Copy-Item $WebConfPath -destination $ClanResultPath -ErrorAction Stop
 
-                                    ### DeployæƒtƒHƒ‹ƒ_æ“¾
+                                    ### Deployï¿½ï¿½tï¿½Hï¿½ï¿½ï¿½_ï¿½æ“¾
                                     $ApiWebFolderName = get-apispa-webfolder $env:Environment "SOALAWB11T"
                                     $BridgeWebFolderName = get-bridgespa-webfolder $env:Environment "SOALAWB11T"
 
